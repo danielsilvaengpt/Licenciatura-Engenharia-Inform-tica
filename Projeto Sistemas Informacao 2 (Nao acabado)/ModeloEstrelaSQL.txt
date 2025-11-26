@@ -1,0 +1,77 @@
+CREATE TABLE viagens (
+	idviagens			 int,
+	duracaoviagem		 int,
+	totaltaxas			 int,
+	numerocontentores		 int,
+	pesototalcontentores		 int,
+	teutotal			 int,
+	classeduracao_idclasseduracao int NOT NULL,
+	localizacao_idlocalizacao	 int NOT NULL,
+	tipo_viagem_idtipoviagem	 bigint NOT NULL,
+	condutor_idcondutor		 int NOT NULL,
+	barco_idbarco		 int NOT NULL,
+	tempo_idtempo		 int NOT NULL,
+	PRIMARY KEY(idviagens)
+);
+
+CREATE TABLE tempo (
+	idtempo	 int,
+	data_completa date,
+	ano		 int,
+	mes		 int,
+	semestre	 int,
+	trimestre	 int,
+	PRIMARY KEY(idtempo)
+);
+
+CREATE TABLE barco (
+	idbarco	 int,
+	nome	 varchar(512),
+	tamanho	 int,
+	tipo	 varchar(512),
+	capacidade int,
+	empresabarco_idempresa_barco	 int NOT NULL,
+	PRIMARY KEY(idbarco)
+);
+
+CREATE TABLE localizacao (
+	idlocalizacao int,
+	pais		 varchar(512),
+	cidade	 varchar(512),
+	PRIMARY KEY(idlocalizacao)
+);
+
+CREATE TABLE condutor (
+	idcondutor	 int,
+	nome	 varchar(512),
+	idade	 int,
+	certificacao varchar(512),
+	PRIMARY KEY(idcondutor)
+);
+
+CREATE TABLE tipo_viagem (
+	idtipoviagem bigint,
+	tipo	 varchar(512),
+	PRIMARY KEY(idtipoviagem)
+);
+
+CREATE TABLE empresabarco (
+	idempresa_barco int,
+	nome		 varchar(512),
+	pais		 varchar(512),
+	PRIMARY KEY(idempresa_barco)
+);
+
+CREATE TABLE classeduracao (
+	idclasseduracao int,
+	duracao	 int,
+	PRIMARY KEY(idclasseduracao)
+);
+
+ALTER TABLE viagens ADD CONSTRAINT viagens_fk1 FOREIGN KEY (classeduracao_idclasseduracao) REFERENCES classeduracao(idclasseduracao);
+ALTER TABLE barco   ADD CONSTRAINT barco_fk1 FOREIGN KEY (empresabarco_idempresa_barco) REFERENCES empresabarco(idempresa_barco);
+ALTER TABLE viagens ADD CONSTRAINT viagens_fk3 FOREIGN KEY (localizacao_idlocalizacao) REFERENCES localizacao(idlocalizacao);
+ALTER TABLE viagens ADD CONSTRAINT viagens_fk4 FOREIGN KEY (tipo_viagem_idtipoviagem) REFERENCES tipo_viagem(idtipoviagem);
+ALTER TABLE viagens ADD CONSTRAINT viagens_fk5 FOREIGN KEY (condutor_idcondutor) REFERENCES condutor(idcondutor);
+ALTER TABLE viagens ADD CONSTRAINT viagens_fk6 FOREIGN KEY (barco_idbarco) REFERENCES barco(idbarco);
+ALTER TABLE viagens ADD CONSTRAINT viagens_fk7 FOREIGN KEY (tempo_idtempo) REFERENCES tempo(idtempo);

@@ -1,0 +1,1001 @@
+idviagem;taxa;datapartida;datachegada;cidade_origem;pais_origem;cidade_destino;pais_destino;nomecondutor;idadecondutor;certificacao;nomebarco;tipobarco;capacidadeteu;sexo;numerocontentares;peso
+1;9988,3;12/04/2024;02/05/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Luís Martins;53;STCW A-II/2;MV Atlântida 605;cargueiro;0;h;3;30
+2;5898,77;12/03/2024;19/03/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;João Ferreira;43;STCW A-II/2;MV Argonauta 734;cargueiro;0;h;9;144
+3;32893,54;03/04/2025;07/04/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Sara Lopes;48;Yachtmaster;MV Caravela 715;petroleiro;0;m;4;40
+4;41789,69;04/11/2024;06/11/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Patrícia Oliveira;48;STCW A-II/2;MV Atlântida 390;petroleiro;0;m;7;77
+5;22165,31;20/01/2025;21/01/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Joana Teixeira;36;CoC Class 1;NS Lusitania 997;container;6896;m;6544;104704
+6;18951,73;14/07/2025;24/07/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Henrique Sousa;52;Pilotage;MT Argonauta 722;ro-ro;2847;h;1760;22880
+7;43137,08;08/07/2024;23/07/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Ricardo Sousa;27;STCW A-II/1;MV Atlântico 285;cargueiro;0;h;6;72
+8;47495,39;08/10/2025;17/10/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Carolina Gonçalves;42;CoC Class 1;MT Atlântida 624;cargueiro;0;m;4;64
+9;1782,35;11/11/2024;25/11/2024;Le Havre;França;FigueiraDaFoz;Portugal;André Lopes;33;CoC Class 2;SS Mondego 864;petroleiro;0;h;6;72
+10;30889,84;05/12/2024;20/12/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Miguel Fernandes;31;CoC Class 2;MV Argonauta 936;petroleiro;0;h;4;40
+11;13680,22;04/02/2024;18/02/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Marta Nunes;41;CoC Class 2;SS Tejo 143;graneleiro;0;m;5;85
+12;11189,14;22/01/2025;24/01/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Bárbara Marques;30;Yachtmaster;MT Açor 142;graneleiro;0;m;6;108
+13;23037,95;21/04/2025;09/05/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Sofia Santos;50;STCW A-II/1;SS Neptuno 611;cargueiro;0;m;7;119
+14;17000,5;20/07/2024;24/07/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Rita Teixeira;38;CoC Class 2;MT Nereida 697;ro-ro;5011;m;2945;35340
+15;20045,19;06/04/2025;14/04/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Raquel Pereira;45;CoC Class 1;SS Íris 4;graneleiro;0;m;6;96
+16;18480,91;03/12/2024;18/12/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Gonçalo Pereira;48;Pilotage;SS Sagres 383;petroleiro;0;h;9;99
+17;9098,08;06/07/2024;19/07/2024;Le Havre;França;FigueiraDaFoz;Portugal;Vítor Fernandes;53;CoC Class 2;MV Guadiana 900;container;18946;h;9463;189260
+18;40957,61;04/06/2025;05/06/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Miguel Martins;32;Yachtmaster;MV Gaivota 836;container;15922;h;5637;78918
+19;39718,6;15/08/2025;23/08/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Pedro Nunes;59;Yachtmaster;MT Neptuno 988;cargueiro;0;h;6;120
+20;43292,07;13/01/2025;18/01/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Hugo Alves;52;Pilotage;NS Íris 124;petroleiro;0;h;5;80
+21;16933,98;02/02/2024;18/02/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Rui Fernandes;47;STCW A-II/1;SS Açor 8;ro-ro;3745;h;2893;43395
+22;44473,42;08/04/2024;20/04/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Ricardo Ferreira;46;STCW A-II/1;MV Açor 286;petroleiro;0;h;7;119
+23;38278,47;04/09/2025;19/09/2025;Génova;Itália;FigueiraDaFoz;Portugal;Henrique Oliveira;38;Pilotage;NS Açor 804;ro-ro;2790;h;954;10494
+24;26613,91;05/08/2024;19/08/2024;Génova;Itália;FigueiraDaFoz;Portugal;Marta Pereira;51;STCW A-II/1;MT Neptuno 421;graneleiro;0;m;4;68
+25;10884,24;15/01/2024;25/01/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Tiago Santos;37;CoC Class 2;MV Açor 197;petroleiro;0;h;7;84
+26;35080,29;28/08/2024;17/09/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Beatriz Marques;56;STCW A-II/2;NS Açor 896;petroleiro;0;m;9;162
+27;10950;29/04/2025;06/05/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Daniela Pereira;39;STCW A-II/1;MV Atlântida 949;ro-ro;3342;m;1290;25800
+28;44142,92;08/06/2025;15/06/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Paulo Nunes;46;CoC Class 2;NS Poseidon 169;cargueiro;0;h;6;72
+29;40379,93;10/07/2025;16/07/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Nuno Jesus;52;CoC Class 2;NS Gaivota 159;petroleiro;0;h;7;133
+30;27427,77;09/07/2025;29/07/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Marta Santos;54;Yachtmaster;MV Mondego 59;ro-ro;2081;m;1924;28860
+31;21928,28;20/05/2025;27/05/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Helena Ribeiro;57;STCW A-II/2;MV Caravela 71;container;1806;m;1298;16874
+32;26026,62;19/09/2025;02/10/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Ricardo Alves;27;STCW A-II/1;SS Poseidon 635;ro-ro;809;h;359;4308
+33;6873,4;10/10/2025;15/10/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Bárbara Pinto;57;Yachtmaster;MT Argonauta 686;petroleiro;0;m;8;152
+34;13337,33;08/01/2025;17/01/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Luís Alves;36;STCW A-II/2;NS Mondego 952;petroleiro;0;h;4;76
+35;30868,65;20/01/2025;23/01/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Manuel Teixeira;61;Yachtmaster;MV Argonauta 519;container;17582;h;9870;98700
+36;45505,03;03/10/2025;08/10/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Diogo Ferreira;56;STCW A-II/2;MT Caravela 449;petroleiro;0;h;3;36
+37;28091,76;06/02/2025;08/02/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Catarina Ribeiro;50;STCW A-II/1;MT Lusitania 962;ro-ro;5891;m;4129;66064
+38;12644,24;03/09/2024;07/09/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Inês Pereira;35;Pilotage;SS Tejo 289;ro-ro;3355;m;1687;23618
+39;32042,96;20/10/2024;25/10/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Bruno Rodrigues;58;Pilotage;NS Tejo 928;petroleiro;0;h;4;80
+40;25901,74;25/05/2025;10/06/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Paulo Jesus;40;STCW A-II/1;MT Sagres 653;container;9839;h;7769;147611
+41;16971,99;08/04/2025;11/04/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Manuel Carvalho;44;Pilotage;MV Lusitania 78;graneleiro;0;h;3;54
+42;18084,63;06/02/2025;09/02/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Diogo Pinto;43;Yachtmaster;NS Sagres 43;cargueiro;0;h;9;126
+43;42047,8;03/05/2025;04/05/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Maria Gonçalves;42;STCW A-II/2;MV Guadiana 799;cargueiro;0;m;6;66
+44;27530,95;17/04/2025;05/05/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Catarina Oliveira;47;STCW A-II/2;SS Neptuno 26;cargueiro;0;m;5;65
+45;33339,22;24/10/2024;27/10/2024;Le Havre;França;FigueiraDaFoz;Portugal;Teresa Martins;31;CoC Class 1;MV Atlântico 894;cargueiro;0;m;9;117
+46;49816,43;11/12/2024;27/12/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Sara Rodrigues;26;CoC Class 2;MT Açor 229;petroleiro;0;m;7;119
+47;44249,18;10/09/2024;22/09/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Nuno Fernandes;29;CoC Class 1;MT Guadiana 657;container;19992;h;8696;173920
+48;36571,83;09/01/2024;18/01/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Daniela Fernandes;59;STCW A-II/1;MT Caravela 595;container;10374;m;4403;66045
+49;20820,9;10/05/2024;30/05/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Tiago Teixeira;48;CoC Class 2;MT Neptuno 621;petroleiro;0;h;7;70
+50;39481,69;19/09/2025;30/09/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Nuno Pinto;32;STCW A-II/2;MV Neptuno 2;petroleiro;0;h;4;80
+51;19241,86;13/04/2024;03/05/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Diogo Marques;59;STCW A-II/1;MT Lusitania 738;petroleiro;0;h;3;48
+52;1248,02;17/04/2025;20/04/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Teresa Fernandes;49;CoC Class 2;SS Argonauta 431;petroleiro;0;m;7;91
+53;32946,1;03/12/2024;05/12/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Vítor Pinto;59;CoC Class 1;MV Minho 294;graneleiro;0;h;8;120
+54;25200,79;09/06/2024;13/06/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Bárbara Teixeira;57;Pilotage;NS Íris 453;petroleiro;0;m;5;55
+55;33223,03;18/05/2025;26/05/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Carolina Ferreira;31;CoC Class 1;MT Atlântida 839;ro-ro;1318;m;860;9460
+56;19018,07;02/02/2024;18/02/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Sara Rodrigues;36;STCW A-II/2;MV Açor 487;container;9646;m;5045;75675
+57;24850,37;09/01/2025;23/01/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Manuel Marques;54;Pilotage;SS Atlântico 507;ro-ro;3536;h;2104;21040
+58;25629,22;09/10/2024;11/10/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Pedro Silva;45;STCW A-II/1;SS Caravela 824;graneleiro;0;h;3;51
+59;25460,48;10/10/2024;25/10/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Maria Carvalho;57;STCW A-II/2;NS Sagres 821;container;8496;m;5138;66794
+60;24027,28;30/05/2025;02/06/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Cláudia Teixeira;41;Pilotage;NS Íris 919;ro-ro;1343;m;758;7580
+61;37638,22;15/02/2024;21/02/2024;Le Havre;França;FigueiraDaFoz;Portugal;Cláudia Jesus;59;STCW A-II/2;NS Açor 282;petroleiro;0;m;9;171
+62;48217,38;06/02/2024;23/02/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Hugo Martins;55;CoC Class 1;MT Atlântida 142;petroleiro;0;h;4;44
+63;9305,14;25/04/2024;26/04/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Nuno Oliveira;27;Pilotage;MV Neptuno 418;cargueiro;0;h;7;98
+64;11237,02;19/07/2025;22/07/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Teresa Santos;48;STCW A-II/2;NS Nereida 878;graneleiro;0;m;4;44
+65;16804,99;30/09/2025;10/10/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Gabriela Silva;26;CoC Class 1;NS Neptuno 552;petroleiro;0;m;5;55
+66;35421,72;13/04/2024;14/04/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Filipe Martins;33;CoC Class 1;NS Nereida 399;graneleiro;0;h;5;85
+67;40658,7;24/06/2024;01/07/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Carolina Lopes;53;STCW A-II/2;MV Atlântico 607;ro-ro;5901;m;3470;38170
+68;25574,3;11/02/2025;24/02/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Rui Marques;31;STCW A-II/2;SS Poseidon 267;graneleiro;0;h;3;54
+69;35396,38;20/01/2024;21/01/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Marta Lopes;32;CoC Class 1;NS Tejo 771;petroleiro;0;m;3;45
+70;19403,56;03/02/2025;17/02/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Sofia Nunes;36;STCW A-II/1;MV Guadiana 230;ro-ro;1266;m;604;12080
+71;7225,97;20/02/2024;08/03/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;João Martins;30;STCW A-II/2;SS Açor 130;container;15838;h;12281;122810
+72;23405,99;20/09/2024;02/10/2024;Génova;Itália;FigueiraDaFoz;Portugal;Artur Rodrigues;29;CoC Class 2;MT Caravela 621;petroleiro;0;h;6;96
+73;48507,31;15/12/2024;30/12/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;André Sousa;59;STCW A-II/1;MV Minho 590;ro-ro;4464;h;3675;40425
+74;20542,22;15/04/2024;04/05/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Marta Ferreira;41;Yachtmaster;MV Minho 871;cargueiro;0;m;6;84
+75;4962,78;26/08/2025;31/08/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Artur Santos;50;CoC Class 1;NS Guadiana 71;ro-ro;216;h;96;1056
+76;3851,49;06/05/2024;15/05/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Ana Marques;36;CoC Class 2;NS Guadiana 651;container;9704;m;6697;120546
+77;27912,11;25/09/2025;26/09/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Paulo Costa;58;Pilotage;MT Gaivota 477;ro-ro;5315;h;4487;89740
+78;47788,4;13/07/2025;21/07/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Raquel Martins;25;STCW A-II/1;NS Açor 769;petroleiro;0;m;8;112
+79;36771,93;22/03/2025;27/03/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Raquel Silva;46;CoC Class 2;SS Gaivota 218;petroleiro;0;m;3;36
+80;6888,07;16/03/2024;01/04/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Raquel Jesus;61;Yachtmaster;MV Argonauta 88;petroleiro;0;m;3;30
+81;3254,13;11/10/2024;25/10/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Gabriela Carvalho;52;STCW A-II/2;NS Íris 812;graneleiro;0;m;5;65
+82;24234,52;03/04/2024;17/04/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Hugo Martins;29;CoC Class 2;MT Guadiana 485;cargueiro;0;h;5;80
+83;24200,12;05/08/2024;21/08/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Teresa Carvalho;45;CoC Class 1;NS Tejo 314;petroleiro;0;m;6;120
+84;31176,65;15/10/2024;20/10/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Tiago Rodrigues;47;CoC Class 1;SS Argonauta 222;container;6381;h;2877;43155
+85;1749,92;09/04/2024;11/04/2024;Génova;Itália;FigueiraDaFoz;Portugal;Bárbara Ribeiro;55;Yachtmaster;MV Argonauta 304;petroleiro;0;m;3;39
+86;31176,71;17/03/2025;18/03/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Carolina Sousa;29;STCW A-II/1;SS Tejo 47;ro-ro;4711;m;4194;67104
+87;29198,23;01/12/2024;03/12/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Beatriz Nunes;52;STCW A-II/1;MT Gaivota 491;container;1351;m;1257;23883
+88;40749;14/01/2025;15/01/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Carolina Santos;57;CoC Class 1;MV Atlântida 411;graneleiro;0;m;3;30
+89;19919,03;02/03/2025;07/03/2025;Génova;Itália;FigueiraDaFoz;Portugal;Artur Santos;36;STCW A-II/2;MT Atlântida 255;cargueiro;0;h;9;90
+90;11127,53;20/02/2025;28/02/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Catarina Teixeira;34;Yachtmaster;NS Íris 931;cargueiro;0;m;5;50
+91;19485,7;11/10/2024;24/10/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Bárbara Marques;36;CoC Class 1;MV Lusitania 971;ro-ro;5826;m;3436;34360
+92;17491,16;09/09/2024;28/09/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Luís Ferreira;59;STCW A-II/2;SS Atlântida 161;cargueiro;0;h;7;140
+93;42398,89;30/03/2024;07/04/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Cláudia Teixeira;53;CoC Class 2;MV Açor 296;petroleiro;0;m;6;114
+94;34951,63;24/08/2025;26/08/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Sofia Martins;31;CoC Class 1;SS Neptuno 118;ro-ro;3367;m;1640;18040
+95;2920,13;17/09/2025;30/09/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Pedro Jesus;35;STCW A-II/2;MV Caravela 812;container;912;h;788;15760
+96;21750,08;03/10/2024;07/10/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Cláudia Pereira;34;CoC Class 2;NS Tejo 513;petroleiro;0;m;5;65
+97;19228,89;10/07/2024;13/07/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Cláudia Ferreira;59;Yachtmaster;NS Mondego 619;container;18455;m;10512;136656
+98;34312,39;05/04/2024;10/04/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Rui Martins;36;Pilotage;MV Tejo 591;ro-ro;3540;h;2631;47358
+99;45225,09;05/10/2024;08/10/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Filipe Ribeiro;54;Pilotage;MT Caravela 600;graneleiro;0;h;5;100
+100;16682,43;02/03/2024;22/03/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Sofia Nunes;49;CoC Class 1;MT Mondego 687;graneleiro;0;m;4;72
+101;1531,04;19/01/2024;05/02/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Bruno Marques;60;Pilotage;MT Atlântico 834;graneleiro;0;h;8;160
+102;18390,35;20/08/2024;08/09/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Manuel Ferreira;36;CoC Class 1;MT Lusitania 994;petroleiro;0;h;4;60
+103;5080,94;18/01/2025;07/02/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Henrique Lopes;43;CoC Class 2;SS Guadiana 638;container;5986;h;3834;38340
+104;11423,67;09/03/2024;12/03/2024;Génova;Itália;FigueiraDaFoz;Portugal;Maria Rodrigues;36;CoC Class 1;SS Minho 449;ro-ro;3038;m;2523;32799
+105;27926,92;18/07/2025;03/08/2025;Génova;Itália;FigueiraDaFoz;Portugal;João Teixeira;38;STCW A-II/2;MT Nereida 566;cargueiro;0;h;8;128
+106;18194,84;12/05/2024;15/05/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Ricardo Pereira;47;CoC Class 2;SS Gaivota 956;container;9424;h;5680;90880
+107;42011,23;10/08/2025;19/08/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Teresa Nunes;34;CoC Class 2;NS Sagres 393;cargueiro;0;m;3;60
+108;21878,48;09/09/2024;15/09/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Rui Jesus;31;CoC Class 2;MT Nereida 290;petroleiro;0;h;3;48
+109;41271,14;16/06/2024;26/06/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Beatriz Lopes;33;Yachtmaster;MT Mondego 566;graneleiro;0;m;6;114
+110;26152,98;25/09/2025;27/09/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Cláudia Fernandes;29;STCW A-II/2;NS Açor 877;cargueiro;0;m;4;64
+111;19339,27;25/02/2025;16/03/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Bruno Nunes;32;Pilotage;NS Sagres 508;graneleiro;0;h;6;90
+112;49314,05;07/12/2024;27/12/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Gonçalo Pinto;41;CoC Class 1;NS Lusitania 539;container;7994;h;5702;108338
+113;35700,88;11/05/2024;15/05/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Pedro Marques;30;Pilotage;MV Gaivota 801;cargueiro;0;h;9;90
+114;25138,63;20/03/2025;01/04/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Catarina Alves;51;Pilotage;MT Atlântico 978;container;15985;m;13415;134150
+115;3758,86;14/10/2025;01/11/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Daniela Santos;52;Yachtmaster;SS Minho 233;container;4209;m;1865;27975
+116;34370,93;20/04/2025;28/04/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Inês Pereira;25;CoC Class 2;MT Nereida 48;cargueiro;0;m;3;30
+117;43561,36;13/12/2024;30/12/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Hugo Gonçalves;49;CoC Class 1;SS Açor 544;graneleiro;0;h;4;68
+118;16811,63;26/04/2024;02/05/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;André Costa;56;STCW A-II/1;NS Açor 510;ro-ro;1952;h;1651;18161
+119;13396,52;20/03/2024;31/03/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Ricardo Lopes;61;Pilotage;NS Tejo 683;petroleiro;0;h;3;39
+120;35149,33;15/06/2025;03/07/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Mariana Carvalho;38;STCW A-II/2;NS Guadiana 602;container;10088;m;6406;115308
+121;3226,87;15/09/2024;01/10/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Patrícia Lopes;47;CoC Class 1;NS Gaivota 110;cargueiro;0;m;3;57
+122;3835,33;12/01/2024;22/01/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Bárbara Gonçalves;56;Yachtmaster;MT Nereida 850;petroleiro;0;m;3;57
+123;17447,34;23/12/2024;04/01/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Ana Pinto;48;Pilotage;NS Minho 795;container;1167;m;426;4686
+124;20025,15;01/05/2024;05/05/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Sara Rodrigues;50;Yachtmaster;SS Lusitania 926;petroleiro;0;m;7;140
+125;4809;11/11/2024;29/11/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Cláudia Santos;52;Yachtmaster;SS Atlântida 932;petroleiro;0;m;4;56
+126;35209,92;10/02/2024;14/02/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Teresa Costa;51;STCW A-II/2;MT Tejo 851;cargueiro;0;m;9;135
+127;21149,13;24/05/2024;02/06/2024;Le Havre;França;FigueiraDaFoz;Portugal;Gabriela Sousa;57;Pilotage;MV Íris 987;petroleiro;0;m;3;33
+128;7526,07;05/04/2025;21/04/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Ricardo Alves;53;Yachtmaster;MV Atlântico 15;petroleiro;0;h;6;90
+129;21415,31;30/06/2025;06/07/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Manuel Gonçalves;42;Pilotage;NS Guadiana 111;petroleiro;0;h;5;100
+130;43437,13;25/03/2025;04/04/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Ana Teixeira;54;Yachtmaster;SS Atlântida 651;petroleiro;0;m;5;50
+131;49376,53;05/01/2024;06/01/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Teresa Pereira;25;STCW A-II/2;MV Minho 505;container;2693;m;821;16420
+132;37729,34;25/06/2024;06/07/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Ricardo Carvalho;45;STCW A-II/2;NS Guadiana 687;graneleiro;0;h;8;160
+133;2804,27;04/08/2024;21/08/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Bárbara Oliveira;37;CoC Class 2;NS Neptuno 962;container;18517;m;13686;246348
+134;3762,4;25/05/2025;26/05/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Diogo Rodrigues;45;CoC Class 2;SS Guadiana 102;graneleiro;0;h;5;100
+135;49986,17;01/06/2025;18/06/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Maria Alves;29;CoC Class 1;MV Íris 94;cargueiro;0;m;3;39
+136;38096,98;12/03/2025;17/03/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Miguel Fernandes;61;STCW A-II/2;SS Atlântida 850;cargueiro;0;h;3;45
+137;23076,66;23/03/2024;09/04/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Artur Rodrigues;45;STCW A-II/2;SS Nereida 284;petroleiro;0;h;7;112
+138;33913,33;01/01/2024;20/01/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Henrique Jesus;37;STCW A-II/2;MV Sagres 16;container;5044;h;2672;32064
+139;25410,09;03/02/2024;11/02/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Artur Fernandes;50;STCW A-II/1;MT Poseidon 130;cargueiro;0;h;5;85
+140;41002,9;13/03/2025;16/03/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Rui Nunes;36;CoC Class 2;MV Íris 516;petroleiro;0;h;9;90
+141;20770,66;23/08/2024;28/08/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Gonçalo Sousa;54;CoC Class 2;MV Gaivota 868;container;5358;h;3488;59296
+142;38001,73;15/09/2025;30/09/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Inês Nunes;47;Pilotage;MV Atlântida 330;graneleiro;0;m;7;98
+143;49042,67;31/07/2025;11/08/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Rui Oliveira;62;CoC Class 1;MT Atlântico 612;ro-ro;4959;h;2737;54740
+144;20219,96;01/11/2024;03/11/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Cláudia Ribeiro;42;Yachtmaster;MV Lusitania 874;graneleiro;0;m;5;80
+145;23094,61;10/03/2025;12/03/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Paulo Lopes;62;STCW A-II/2;MT Íris 409;graneleiro;0;h;8;128
+146;47526,51;30/11/2024;10/12/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Bruno Marques;41;CoC Class 1;MT Sagres 704;petroleiro;0;h;7;91
+147;38676,97;17/05/2024;03/06/2024;Génova;Itália;FigueiraDaFoz;Portugal;Rui Ferreira;34;STCW A-II/1;MV Guadiana 832;graneleiro;0;h;6;108
+148;25138,29;09/03/2024;11/03/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Artur Carvalho;30;Yachtmaster;MV Neptuno 363;petroleiro;0;h;6;66
+149;4717,3;23/07/2024;03/08/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Hugo Teixeira;35;CoC Class 1;MV Argonauta 159;petroleiro;0;h;6;78
+150;20614,72;01/07/2024;17/07/2024;Génova;Itália;FigueiraDaFoz;Portugal;Tiago Gonçalves;55;Yachtmaster;MV Tejo 588;petroleiro;0;h;7;133
+151;21171,4;03/06/2025;07/06/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Daniela Teixeira;28;Yachtmaster;MV Tejo 30;ro-ro;1819;m;1575;18900
+152;18033,34;13/07/2024;31/07/2024;Le Havre;França;FigueiraDaFoz;Portugal;Mariana Fernandes;43;CoC Class 1;SS Sagres 580;container;13391;m;10515;136695
+153;11110,35;17/06/2025;23/06/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Pedro Silva;25;STCW A-II/1;SS Atlântico 430;ro-ro;623;h;529;5819
+154;17174,88;29/06/2025;16/07/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Carolina Gonçalves;38;CoC Class 1;MV Poseidon 160;petroleiro;0;m;7;77
+155;5006,19;13/03/2024;28/03/2024;Le Havre;França;FigueiraDaFoz;Portugal;Rui Jesus;46;CoC Class 2;NS Íris 425;graneleiro;0;h;4;72
+156;14567;15/12/2024;26/12/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Gonçalo Pereira;41;CoC Class 1;MV Minho 695;graneleiro;0;h;9;126
+157;10041,53;13/09/2024;21/09/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Helena Sousa;59;STCW A-II/1;NS Poseidon 8;cargueiro;0;m;7;84
+158;38237,82;29/10/2024;12/11/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Marta Oliveira;50;CoC Class 1;MT Lusitania 8;petroleiro;0;m;3;48
+159;8239,22;18/03/2024;20/03/2024;Génova;Itália;FigueiraDaFoz;Portugal;Carolina Oliveira;50;CoC Class 2;SS Guadiana 74;ro-ro;4721;m;4349;73933
+160;37731,2;07/01/2024;10/01/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Paulo Silva;47;CoC Class 2;MT Neptuno 588;container;19681;h;7469;104566
+161;18353,19;22/05/2025;04/06/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Mariana Pereira;42;CoC Class 2;MT Caravela 821;container;8173;m;4522;58786
+162;16781,88;15/01/2024;20/01/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Joana Ferreira;52;CoC Class 2;SS Neptuno 604;container;1562;m;1437;21555
+163;44635,84;18/08/2024;30/08/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Nuno Sousa;49;Pilotage;SS Mondego 798;petroleiro;0;h;3;54
+164;32792,32;30/07/2024;03/08/2024;Le Havre;França;FigueiraDaFoz;Portugal;Gonçalo Pereira;34;Yachtmaster;SS Guadiana 360;ro-ro;166;h;141;1410
+165;27318,22;25/05/2024;09/06/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Tiago Oliveira;60;CoC Class 1;SS Sagres 779;cargueiro;0;h;3;42
+166;22151,32;03/02/2024;18/02/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Filipe Lopes;32;Yachtmaster;NS Mondego 885;ro-ro;4107;h;1438;24446
+167;18791,03;17/08/2025;27/08/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Manuel Ferreira;61;CoC Class 2;MT Tejo 606;graneleiro;0;h;6;60
+168;30682,97;08/10/2024;10/10/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Helena Ferreira;30;CoC Class 1;NS Poseidon 59;graneleiro;0;m;4;80
+169;24902,68;15/10/2024;21/10/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Sofia Ferreira;30;Yachtmaster;NS Íris 595;ro-ro;5722;m;2355;42390
+170;9495,31;15/12/2024;26/12/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Manuel Pinto;54;Pilotage;MT Gaivota 514;cargueiro;0;h;6;120
+171;35151,11;16/05/2024;19/05/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Manuel Pereira;55;CoC Class 1;SS Poseidon 254;container;17947;h;15245;243920
+172;29223,92;10/08/2024;16/08/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Helena Ribeiro;26;Yachtmaster;MT Guadiana 940;cargueiro;0;m;9;99
+173;48778,29;15/03/2024;19/03/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Teresa Fernandes;39;Pilotage;MV Mondego 68;ro-ro;745;m;638;10208
+174;28281,38;28/08/2025;03/09/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Henrique Alves;26;CoC Class 1;SS Mondego 84;petroleiro;0;h;4;40
+175;10165,14;26/01/2025;14/02/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Diogo Sousa;29;Pilotage;SS Atlântida 318;graneleiro;0;h;5;85
+176;25872,91;27/04/2024;01/05/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Raquel Oliveira;43;Pilotage;MV Neptuno 521;ro-ro;823;m;711;7110
+177;30920,38;22/04/2024;04/05/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Diogo Sousa;25;STCW A-II/2;MT Gaivota 197;cargueiro;0;h;7;105
+178;8563,77;15/11/2024;21/11/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Pedro Ferreira;61;CoC Class 1;MV Mondego 898;container;2417;h;1773;31914
+179;17493,61;15/09/2024;16/09/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Vítor Alves;30;STCW A-II/2;SS Caravela 739;cargueiro;0;h;4;80
+180;27897,18;10/01/2024;15/01/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Paulo Gonçalves;47;Pilotage;NS Minho 771;cargueiro;0;h;7;91
+181;5305,54;13/01/2024;21/01/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Henrique Martins;26;CoC Class 1;SS Guadiana 695;graneleiro;0;h;7;105
+182;6718,11;14/11/2024;19/11/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Cláudia Sousa;33;CoC Class 2;NS Caravela 837;ro-ro;2932;m;2620;47160
+183;6228,26;03/07/2025;06/07/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Luís Santos;54;Pilotage;MT Lusitania 729;graneleiro;0;h;7;105
+184;46713,97;03/08/2025;15/08/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Hugo Ferreira;38;STCW A-II/2;NS Sagres 851;petroleiro;0;h;3;57
+185;19582,2;03/04/2025;12/04/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Ricardo Lopes;58;CoC Class 1;NS Poseidon 406;container;19519;h;11307;180912
+186;3356,64;27/05/2025;04/06/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Sara Alves;46;STCW A-II/1;SS Nereida 327;petroleiro;0;m;4;52
+187;39968,1;14/12/2024;22/12/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Beatriz Oliveira;35;STCW A-II/1;NS Sagres 778;petroleiro;0;m;3;30
+188;40914,16;26/09/2024;29/09/2024;Génova;Itália;FigueiraDaFoz;Portugal;Catarina Silva;45;STCW A-II/1;MT Argonauta 856;container;16024;m;8452;92972
+189;45485,44;13/01/2025;27/01/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Inês Sousa;50;STCW A-II/2;MV Poseidon 245;petroleiro;0;m;7;119
+190;41013,37;23/08/2025;05/09/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Sofia Pereira;49;CoC Class 2;MV Açor 736;ro-ro;2549;m;1591;25456
+191;45083,7;21/10/2024;29/10/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Teresa Silva;38;Yachtmaster;SS Neptuno 192;petroleiro;0;m;4;72
+192;22498,49;28/09/2025;04/10/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Sofia Ribeiro;57;Yachtmaster;MV Atlântico 895;ro-ro;5242;m;4838;77408
+193;4264,34;24/05/2024;25/05/2024;Génova;Itália;FigueiraDaFoz;Portugal;Nuno Gonçalves;26;CoC Class 1;MT Atlântida 354;container;18881;h;16500;198000
+194;17410,38;13/04/2024;02/05/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Artur Fernandes;30;STCW A-II/2;MT Mondego 834;container;18086;h;12518;187770
+195;25275,76;23/03/2025;12/04/2025;Le Havre;França;FigueiraDaFoz;Portugal;Gabriela Costa;39;STCW A-II/2;NS Poseidon 301;container;6288;m;2981;32791
+196;39641,26;22/04/2025;29/04/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Carlos Santos;51;CoC Class 1;NS Gaivota 260;petroleiro;0;h;4;56
+197;39150,03;03/07/2025;04/07/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Hugo Gonçalves;61;STCW A-II/1;MT Lusitania 819;petroleiro;0;h;8;136
+198;35989,14;15/10/2024;19/10/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Rita Lopes;46;CoC Class 2;SS Gaivota 709;petroleiro;0;m;6;102
+199;6042,89;31/05/2025;10/06/2025;Génova;Itália;FigueiraDaFoz;Portugal;Helena Jesus;57;STCW A-II/1;MV Neptuno 617;graneleiro;0;m;9;144
+200;23393,01;07/06/2024;22/06/2024;Le Havre;França;FigueiraDaFoz;Portugal;Raquel Pereira;60;STCW A-II/1;MT Minho 457;petroleiro;0;m;3;54
+201;24831,52;15/01/2024;23/01/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Carolina Lopes;29;CoC Class 1;MV Guadiana 630;graneleiro;0;m;9;162
+202;1597,95;19/11/2024;01/12/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Maria Ferreira;26;Pilotage;MT Caravela 976;graneleiro;0;m;5;95
+203;27593,5;18/09/2025;07/10/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Vítor Lopes;60;STCW A-II/1;MV Açor 798;cargueiro;0;h;3;48
+204;47994,66;09/10/2024;14/10/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Rita Pinto;44;STCW A-II/1;SS Íris 972;ro-ro;4206;m;3880;46560
+205;21756,25;03/07/2025;09/07/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Cláudia Ferreira;32;Yachtmaster;MT Atlântico 322;cargueiro;0;m;3;36
+206;45680,77;11/12/2024;25/12/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Tiago Silva;36;Pilotage;NS Atlântico 936;cargueiro;0;h;5;100
+207;13544,76;07/09/2025;25/09/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Luís Jesus;49;Pilotage;SS Minho 711;graneleiro;0;h;6;102
+208;6008,42;07/09/2025;18/09/2025;Génova;Itália;FigueiraDaFoz;Portugal;Tiago Oliveira;36;STCW A-II/1;SS Íris 90;graneleiro;0;h;8;80
+209;35654,69;19/11/2024;24/11/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Sofia Carvalho;61;Yachtmaster;MT Caravela 729;petroleiro;0;m;5;55
+210;19347,33;15/04/2024;02/05/2024;Le Havre;França;FigueiraDaFoz;Portugal;Helena Martins;52;STCW A-II/1;SS Açor 810;cargueiro;0;m;8;160
+211;45623,62;20/02/2024;05/03/2024;Génova;Itália;FigueiraDaFoz;Portugal;Diogo Carvalho;46;Yachtmaster;NS Sagres 627;petroleiro;0;h;7;119
+212;7108,47;04/09/2025;18/09/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Hugo Alves;60;Pilotage;NS Neptuno 844;graneleiro;0;h;5;100
+213;19585,98;01/01/2024;20/01/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Pedro Fernandes;39;Pilotage;NS Íris 697;container;3208;h;2980;47680
+214;39601,7;04/11/2024;13/11/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Beatriz Carvalho;34;Pilotage;SS Sagres 444;ro-ro;3607;m;2207;22070
+215;43312,39;28/07/2025;17/08/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Tiago Ribeiro;49;STCW A-II/2;SS Caravela 331;petroleiro;0;h;3;60
+216;24561,01;20/01/2025;27/01/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Helena Sousa;42;STCW A-II/1;SS Tejo 129;petroleiro;0;m;9;108
+217;25420,02;12/12/2024;29/12/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Gonçalo Costa;48;Yachtmaster;SS Caravela 675;ro-ro;4220;h;1679;23506
+218;11784,76;15/05/2025;16/05/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Bárbara Santos;53;STCW A-II/1;MV Tejo 667;container;5257;m;2692;40380
+219;48092,45;13/04/2025;30/04/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Catarina Silva;31;CoC Class 2;MT Minho 495;ro-ro;5044;m;2766;41490
+220;16186,91;27/05/2024;04/06/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Mariana Lopes;31;STCW A-II/1;SS Íris 426;container;10484;m;8971;116623
+221;18119,96;02/08/2024;21/08/2024;Génova;Itália;FigueiraDaFoz;Portugal;Marta Fernandes;43;Yachtmaster;MT Mondego 752;cargueiro;0;m;9;90
+222;41991,68;11/10/2024;28/10/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Beatriz Gonçalves;53;Yachtmaster;MV Mondego 248;ro-ro;385;m;293;3223
+223;39000,85;19/01/2024;06/02/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Luís Lopes;25;STCW A-II/2;MV Poseidon 298;cargueiro;0;h;8;144
+224;24573,31;23/06/2024;11/07/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Sara Costa;26;CoC Class 1;MT Argonauta 782;ro-ro;5183;m;3586;50204
+225;9914,48;09/08/2024;15/08/2024;Le Havre;França;FigueiraDaFoz;Portugal;Helena Lopes;28;CoC Class 2;NS Nereida 93;petroleiro;0;m;7;70
+226;19292,16;24/02/2024;02/03/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Sara Rodrigues;27;Yachtmaster;MV Poseidon 289;petroleiro;0;m;3;51
+227;48967,64;02/04/2025;21/04/2025;Génova;Itália;FigueiraDaFoz;Portugal;Mariana Carvalho;58;STCW A-II/1;NS Sagres 904;container;14922;m;9325;130550
+228;20991,24;26/06/2024;03/07/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Rita Gonçalves;53;STCW A-II/1;MV Argonauta 372;graneleiro;0;m;6;96
+229;10609,54;08/11/2024;11/11/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Sofia Alves;48;Yachtmaster;MT Lusitania 132;graneleiro;0;m;6;78
+230;9748,69;23/11/2024;08/12/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Joana Fernandes;61;Yachtmaster;SS Argonauta 617;petroleiro;0;m;8;104
+231;12915,44;31/08/2025;15/09/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Helena Santos;32;STCW A-II/1;SS Mondego 824;container;8470;m;5249;83984
+232;20461,99;18/03/2024;01/04/2024;Génova;Itália;FigueiraDaFoz;Portugal;Beatriz Teixeira;40;Yachtmaster;MT Mondego 167;cargueiro;0;m;5;100
+233;44920,46;13/06/2024;27/06/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Bárbara Fernandes;55;Yachtmaster;NS Minho 487;ro-ro;922;m;688;8256
+234;42558,28;07/01/2024;17/01/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Raquel Pereira;31;CoC Class 2;MT Nereida 612;ro-ro;2298;m;787;11805
+235;21649,8;15/09/2025;04/10/2025;Génova;Itália;FigueiraDaFoz;Portugal;Bárbara Pinto;60;STCW A-II/2;NS Caravela 537;container;18192;m;8524;136384
+236;13711,75;28/05/2025;29/05/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Beatriz Martins;29;STCW A-II/1;MV Argonauta 20;ro-ro;3694;m;2223;26676
+237;2677,18;20/01/2025;23/01/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Teresa Oliveira;47;CoC Class 2;NS Gaivota 894;cargueiro;0;m;6;84
+238;21061,17;15/06/2025;20/06/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Gonçalo Rodrigues;61;Yachtmaster;NS Atlântico 322;petroleiro;0;h;9;162
+239;47474,21;13/08/2024;25/08/2024;Le Havre;França;FigueiraDaFoz;Portugal;Daniela Fernandes;59;Yachtmaster;MT Gaivota 197;petroleiro;0;m;6;108
+240;28723,05;29/12/2024;15/01/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Daniela Sousa;34;STCW A-II/2;MT Argonauta 707;petroleiro;0;m;3;42
+241;40192,91;28/02/2024;13/03/2024;Génova;Itália;FigueiraDaFoz;Portugal;Gabriela Gonçalves;47;Yachtmaster;MT Lusitania 588;petroleiro;0;m;4;44
+242;37342,66;24/04/2024;11/05/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Rita Gonçalves;38;STCW A-II/2;MV Minho 979;petroleiro;0;m;6;72
+243;7828,45;24/08/2024;31/08/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Cláudia Jesus;33;Pilotage;SS Argonauta 848;graneleiro;0;m;6;96
+244;45128,04;22/08/2024;05/09/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Daniela Jesus;28;STCW A-II/2;SS Açor 52;container;9133;m;6143;67573
+245;41306,61;01/09/2025;06/09/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Ricardo Santos;35;STCW A-II/1;MT Gaivota 103;graneleiro;0;h;8;144
+246;25406,45;07/05/2024;17/05/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Henrique Costa;60;CoC Class 2;NS Argonauta 775;graneleiro;0;h;7;105
+247;36289,93;03/02/2024;20/02/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Mariana Santos;61;STCW A-II/1;SS Poseidon 936;ro-ro;5597;m;4472;80496
+248;7707,4;20/09/2025;30/09/2025;Le Havre;França;FigueiraDaFoz;Portugal;Carolina Santos;46;CoC Class 2;SS Minho 898;graneleiro;0;m;4;80
+249;13285,8;13/10/2024;19/10/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Hugo Pinto;51;Yachtmaster;MT Minho 466;container;4763;h;1438;25884
+250;21519,76;30/03/2025;09/04/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Beatriz Ribeiro;41;CoC Class 2;SS Lusitania 339;petroleiro;0;m;8;136
+251;9147,89;20/04/2025;04/05/2025;Le Havre;França;FigueiraDaFoz;Portugal;Patrícia Costa;26;STCW A-II/1;MT Argonauta 180;petroleiro;0;m;4;80
+252;4344,24;28/12/2024;29/12/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Teresa Ribeiro;60;CoC Class 1;NS Lusitania 190;container;13581;m;7919;150461
+253;36233,25;22/10/2024;02/11/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Raquel Martins;60;STCW A-II/1;NS Açor 458;petroleiro;0;m;9;108
+254;7615,06;14/08/2024;16/08/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Mariana Pinto;48;Pilotage;MV Tejo 670;ro-ro;4953;m;2735;54700
+255;27452,3;07/11/2024;08/11/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Miguel Pereira;60;CoC Class 2;SS Atlântico 703;petroleiro;0;h;8;96
+256;8578,93;11/04/2025;14/04/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Inês Sousa;41;CoC Class 1;SS Açor 981;ro-ro;4560;m;2104;23144
+257;36681,25;19/07/2024;21/07/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Beatriz Lopes;33;Pilotage;MT Neptuno 719;ro-ro;2443;m;2111;42220
+258;4720,74;04/08/2024;15/08/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Daniela Rodrigues;49;STCW A-II/2;MV Íris 541;ro-ro;5258;m;4282;55666
+259;29921,3;12/05/2025;17/05/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Artur Pereira;54;STCW A-II/1;SS Sagres 169;ro-ro;4297;h;2768;35984
+260;34837,45;01/10/2024;06/10/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Inês Rodrigues;41;Pilotage;NS Atlântida 921;ro-ro;429;m;251;4016
+261;47950,37;11/05/2025;26/05/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Maria Lopes;36;STCW A-II/2;NS Íris 578;ro-ro;1441;m;1106;13272
+262;40521,5;04/12/2024;12/12/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Mariana Silva;55;CoC Class 2;MV Argonauta 593;petroleiro;0;m;9;171
+263;13233,73;29/04/2025;15/05/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Paulo Gonçalves;30;Pilotage;MV Atlântida 957;container;5819;h;3525;59925
+264;34965,59;29/03/2024;10/04/2024;Génova;Itália;FigueiraDaFoz;Portugal;Hugo Marques;39;STCW A-II/2;NS Guadiana 913;cargueiro;0;h;7;98
+265;3164,11;03/05/2025;16/05/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Rita Alves;50;STCW A-II/1;SS Guadiana 122;ro-ro;146;m;67;1273
+266;9848,19;16/01/2024;23/01/2024;Le Havre;França;FigueiraDaFoz;Portugal;Helena Oliveira;41;Pilotage;MV Nereida 306;cargueiro;0;m;8;120
+267;6905,61;26/03/2024;02/04/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Daniela Alves;38;STCW A-II/2;NS Guadiana 159;cargueiro;0;m;5;55
+268;48581,85;02/06/2025;11/06/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Tiago Santos;32;Pilotage;MV Açor 212;graneleiro;0;h;7;112
+269;3689,25;21/04/2025;09/05/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Vítor Santos;55;CoC Class 2;MV Açor 759;ro-ro;5185;h;4640;88160
+270;32858,2;05/02/2025;15/02/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Cláudia Martins;41;Yachtmaster;MV Sagres 516;cargueiro;0;m;4;48
+271;35118,15;31/05/2024;03/06/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Artur Fernandes;58;Yachtmaster;MT Açor 310;ro-ro;230;h;87;1479
+272;27381,67;01/07/2024;13/07/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Paulo Sousa;39;CoC Class 1;SS Neptuno 570;container;7140;h;2437;24370
+273;44412,91;31/01/2025;18/02/2025;Génova;Itália;FigueiraDaFoz;Portugal;Diogo Alves;57;Yachtmaster;NS Neptuno 153;petroleiro;0;h;6;90
+274;2195,64;01/03/2025;13/03/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Carolina Carvalho;26;CoC Class 2;SS Minho 879;cargueiro;0;m;4;64
+275;1011,64;18/06/2024;20/06/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Maria Carvalho;54;CoC Class 2;SS Atlântico 249;graneleiro;0;m;9;135
+276;46696,91;20/05/2024;07/06/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Bruno Ferreira;56;CoC Class 2;MV Argonauta 53;petroleiro;0;h;8;96
+277;20694,61;08/02/2024;22/02/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Catarina Teixeira;53;STCW A-II/1;SS Argonauta 491;container;18916;m;11715;187440
+278;43810,18;01/09/2024;13/09/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Mariana Silva;40;STCW A-II/2;MV Gaivota 937;cargueiro;0;m;6;72
+279;21470,57;26/08/2024;05/09/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Nuno Martins;54;Yachtmaster;MT Atlântico 478;petroleiro;0;h;9;108
+280;12700,08;24/12/2024;13/01/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Mariana Jesus;29;CoC Class 1;NS Íris 101;ro-ro;2724;m;1955;29325
+281;15553,14;03/01/2024;16/01/2024;Génova;Itália;FigueiraDaFoz;Portugal;Marta Gonçalves;38;CoC Class 1;MV Açor 760;graneleiro;0;m;6;120
+282;1875,82;19/11/2024;07/12/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Luís Carvalho;61;Yachtmaster;NS Minho 157;ro-ro;531;h;229;3435
+283;7097,44;07/08/2025;22/08/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Sara Alves;48;Yachtmaster;NS Mondego 264;cargueiro;0;m;5;65
+284;5381,14;05/07/2024;10/07/2024;Génova;Itália;FigueiraDaFoz;Portugal;Cláudia Costa;61;Pilotage;SS Sagres 738;petroleiro;0;m;8;104
+285;45282,47;15/03/2025;29/03/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Carolina Carvalho;48;Pilotage;MV Atlântida 968;container;8702;m;8152;154888
+286;12351,91;13/08/2024;20/08/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Paulo Oliveira;28;Pilotage;MV Sagres 10;cargueiro;0;h;9;99
+287;19820,44;28/07/2025;16/08/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Joana Santos;34;Yachtmaster;NS Gaivota 17;ro-ro;4421;m;1554;21756
+288;40237,71;20/05/2025;23/05/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Ana Silva;30;Yachtmaster;MT Nereida 515;petroleiro;0;m;6;66
+289;44305,51;23/02/2024;09/03/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Tiago Pereira;47;Yachtmaster;SS Argonauta 635;cargueiro;0;h;6;60
+290;44974,37;08/04/2024;28/04/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Joana Jesus;59;CoC Class 2;MT Atlântico 471;container;15051;m;13165;236970
+291;29424,22;29/04/2024;14/05/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Ricardo Sousa;49;Pilotage;MV Atlântida 416;container;5175;h;2550;45900
+292;7346,23;01/09/2025;12/09/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Daniela Nunes;27;STCW A-II/1;SS Atlântida 512;container;11374;m;3762;45144
+293;33106,86;10/10/2025;13/10/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Bárbara Pereira;49;Yachtmaster;SS Argonauta 923;container;14274;m;12572;150864
+294;21014,21;17/09/2024;28/09/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Patrícia Santos;58;STCW A-II/1;MV Caravela 952;petroleiro;0;m;4;40
+295;3390,4;07/02/2024;15/02/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Carlos Pinto;29;STCW A-II/2;MV Minho 167;graneleiro;0;h;5;60
+296;4730,41;29/03/2025;03/04/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Artur Alves;37;Pilotage;MT Atlântico 774;ro-ro;895;h;370;5180
+297;30027,98;15/08/2025;02/09/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Gonçalo Gonçalves;56;STCW A-II/1;NS Açor 859;container;17201;h;15817;221438
+298;27645,17;18/11/2024;26/11/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Catarina Teixeira;58;Yachtmaster;MT Nereida 650;graneleiro;0;m;5;75
+299;33264,14;15/10/2024;21/10/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Gabriela Martins;48;CoC Class 1;NS Neptuno 191;ro-ro;2483;m;2346;35190
+300;42013,65;18/12/2024;03/01/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Sofia Teixeira;37;CoC Class 1;MV Atlântida 275;cargueiro;0;m;3;51
+301;31311,96;10/12/2024;20/12/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Beatriz Alves;60;CoC Class 1;MV Atlântida 6;petroleiro;0;m;5;65
+302;44162,67;25/02/2025;04/03/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Joana Jesus;29;STCW A-II/1;MV Caravela 442;cargueiro;0;m;3;57
+303;41177,4;31/01/2024;10/02/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Inês Silva;34;STCW A-II/1;MV Mondego 885;petroleiro;0;m;8;136
+304;28252,91;12/03/2025;19/03/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Hugo Marques;55;CoC Class 2;SS Caravela 702;container;19287;h;7063;120071
+305;15064,87;11/08/2025;23/08/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Pedro Jesus;26;CoC Class 1;NS Sagres 65;petroleiro;0;h;5;100
+306;6676,35;15/02/2024;03/03/2024;Le Havre;França;FigueiraDaFoz;Portugal;Patrícia Marques;41;CoC Class 1;MV Guadiana 258;graneleiro;0;m;7;70
+307;7293,99;23/03/2025;05/04/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Catarina Teixeira;59;STCW A-II/2;MV Sagres 312;graneleiro;0;m;9;153
+308;22179,8;11/04/2025;18/04/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Raquel Teixeira;34;CoC Class 2;NS Mondego 441;petroleiro;0;m;4;76
+309;37931,24;15/02/2025;02/03/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Hugo Fernandes;54;Yachtmaster;NS Mondego 182;cargueiro;0;h;7;105
+310;34706,4;04/10/2024;08/10/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Mariana Nunes;44;Yachtmaster;MT Atlântico 288;cargueiro;0;m;3;54
+311;38778,23;29/08/2024;02/09/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Inês Pinto;51;STCW A-II/2;SS Nereida 976;ro-ro;1140;m;942;17898
+312;3241,36;04/02/2025;14/02/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Manuel Sousa;25;Pilotage;NS Gaivota 143;container;11883;h;5039;65507
+313;22851,96;01/11/2024;15/11/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Luís Oliveira;53;Pilotage;NS Atlântida 460;graneleiro;0;h;5;95
+314;4215,68;14/08/2024;03/09/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Bárbara Alves;36;Yachtmaster;NS Poseidon 810;ro-ro;5226;m;2129;31935
+315;41120,5;02/02/2024;08/02/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Tiago Martins;39;Pilotage;SS Poseidon 577;petroleiro;0;h;3;30
+316;47270,88;03/04/2025;05/04/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Teresa Pereira;58;STCW A-II/1;MT Açor 523;container;3856;m;1186;17790
+317;39945,67;08/04/2024;21/04/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Manuel Gonçalves;39;CoC Class 2;SS Guadiana 26;graneleiro;0;h;7;119
+318;34344,47;05/06/2024;16/06/2024;Génova;Itália;FigueiraDaFoz;Portugal;Hugo Marques;56;STCW A-II/1;SS Guadiana 320;container;14498;h;13465;201975
+319;43534,66;22/01/2024;02/02/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Marta Ribeiro;51;CoC Class 2;NS Lusitania 449;petroleiro;0;m;4;44
+320;47237,18;16/01/2025;28/01/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Sofia Sousa;52;STCW A-II/1;MV Mondego 664;container;1488;m;1197;23940
+321;16285,65;24/03/2024;30/03/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Ricardo Ribeiro;43;STCW A-II/2;SS Mondego 574;ro-ro;5606;h;3562;39182
+322;37546,01;23/07/2025;29/07/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Sara Alves;39;Pilotage;SS Neptuno 406;cargueiro;0;m;8;104
+323;36031,28;11/06/2024;28/06/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Manuel Pinto;49;CoC Class 2;MV Argonauta 211;graneleiro;0;h;3;54
+324;27618,41;27/09/2024;09/10/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Artur Pereira;40;Yachtmaster;MT Mondego 202;cargueiro;0;h;6;96
+325;43562,54;29/02/2024;14/03/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Luís Nunes;49;Yachtmaster;NS Atlântico 602;petroleiro;0;h;8;120
+326;23230,99;04/11/2024;12/11/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Joana Lopes;39;Yachtmaster;MT Atlântida 689;cargueiro;0;m;7;112
+327;15414,23;15/07/2025;04/08/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Inês Martins;31;CoC Class 1;SS Guadiana 711;container;17843;m;15756;204828
+328;24594,6;19/06/2025;22/06/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Teresa Teixeira;44;STCW A-II/2;NS Neptuno 191;ro-ro;626;m;449;8082
+329;30758,02;24/07/2024;31/07/2024;Génova;Itália;FigueiraDaFoz;Portugal;Henrique Costa;41;CoC Class 2;SS Caravela 323;petroleiro;0;h;8;80
+330;29516,6;04/06/2025;10/06/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Diogo Silva;46;CoC Class 2;SS Atlântico 987;cargueiro;0;h;8;104
+331;22229,09;26/04/2024;28/04/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Teresa Nunes;48;CoC Class 2;NS Caravela 85;graneleiro;0;m;7;98
+332;1569,41;04/03/2024;17/03/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Ricardo Sousa;41;STCW A-II/1;SS Minho 173;petroleiro;0;h;4;80
+333;15291,47;30/09/2024;18/10/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Daniela Ribeiro;55;STCW A-II/1;MV Tejo 794;ro-ro;265;m;199;1990
+334;45483,11;27/10/2024;28/10/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Daniela Santos;62;Pilotage;SS Neptuno 105;graneleiro;0;m;4;48
+335;8150,18;01/08/2024;20/08/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Maria Lopes;48;CoC Class 1;MV Íris 887;petroleiro;0;m;4;44
+336;1900,01;10/08/2025;24/08/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Carlos Pinto;56;Pilotage;NS Caravela 631;petroleiro;0;h;5;100
+337;28422,79;05/11/2024;25/11/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Carlos Santos;57;Yachtmaster;MT Caravela 332;petroleiro;0;h;9;126
+338;5305,46;29/08/2024;30/08/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Bárbara Jesus;26;Yachtmaster;SS Neptuno 941;container;6868;m;3978;55692
+339;20449,24;11/08/2025;31/08/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Beatriz Oliveira;50;STCW A-II/2;MT Açor 780;cargueiro;0;m;7;91
+340;34783,78;12/07/2024;18/07/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Beatriz Pinto;50;Pilotage;NS Atlântico 463;petroleiro;0;m;7;77
+341;7086,78;22/05/2024;24/05/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Nuno Ribeiro;35;Pilotage;MT Íris 974;petroleiro;0;h;7;77
+342;31213,62;26/09/2025;02/10/2025;Génova;Itália;FigueiraDaFoz;Portugal;Bárbara Silva;33;Pilotage;NS Guadiana 871;container;7417;m;2804;50472
+343;43677,49;10/08/2024;19/08/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Marta Marques;36;STCW A-II/2;MT Mondego 849;graneleiro;0;m;4;76
+344;44846,02;13/11/2024;03/12/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Daniela Pinto;31;STCW A-II/2;NS Mondego 916;ro-ro;558;m;335;6700
+345;36516,5;24/01/2025;27/01/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Tiago Lopes;38;STCW A-II/1;SS Íris 468;container;13758;h;4618;83124
+346;24484,67;12/01/2024;24/01/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Marta Oliveira;37;Pilotage;SS Tejo 96;petroleiro;0;m;6;60
+347;37469,67;30/08/2024;18/09/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Sofia Gonçalves;60;Pilotage;MV Atlântico 641;cargueiro;0;m;8;112
+348;36240,89;22/09/2025;11/10/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Paulo Ferreira;42;Pilotage;MV Argonauta 489;container;10681;h;9258;185160
+349;4994,8;02/07/2025;11/07/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Artur Martins;27;Yachtmaster;MV Nereida 713;graneleiro;0;h;3;51
+350;48078,25;04/02/2024;19/02/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Paulo Oliveira;57;CoC Class 2;SS Atlântico 92;container;7505;h;3085;46275
+351;17950,81;24/01/2024;13/02/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Bruno Gonçalves;61;CoC Class 1;NS Sagres 657;cargueiro;0;h;3;30
+352;26185,8;29/12/2024;18/01/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Gonçalo Pinto;48;STCW A-II/1;SS Íris 360;ro-ro;1812;h;646;10982
+353;24846,78;08/09/2025;12/09/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Paulo Teixeira;58;Pilotage;SS Atlântida 919;graneleiro;0;h;8;104
+354;39854,85;31/07/2025;15/08/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Tiago Pinto;58;Pilotage;MT Neptuno 323;graneleiro;0;h;5;60
+355;31525,36;21/10/2024;31/10/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Luís Ferreira;36;STCW A-II/2;MT Nereida 869;ro-ro;3814;h;3000;54000
+356;7446,82;05/07/2025;20/07/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Gonçalo Teixeira;57;Yachtmaster;NS Minho 662;cargueiro;0;h;6;60
+357;9804,47;03/06/2025;07/06/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Filipe Alves;54;STCW A-II/1;NS Atlântida 541;cargueiro;0;h;8;96
+358;21238,53;09/06/2025;23/06/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Raquel Oliveira;26;CoC Class 2;NS Guadiana 560;ro-ro;474;m;172;2924
+359;29391,33;06/07/2025;21/07/2025;Le Havre;França;FigueiraDaFoz;Portugal;Sofia Silva;38;Yachtmaster;MV Tejo 221;container;5099;m;4369;78642
+360;20163;24/03/2024;26/03/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Nuno Ribeiro;30;CoC Class 1;NS Neptuno 719;ro-ro;3316;h;1414;28280
+361;33180,1;28/01/2024;30/01/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Henrique Carvalho;59;Yachtmaster;MT Atlântida 318;cargueiro;0;h;6;60
+362;7412,81;24/03/2025;01/04/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Pedro Carvalho;36;CoC Class 1;MV Minho 716;graneleiro;0;h;7;133
+363;12566,47;27/10/2024;11/11/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Miguel Martins;55;STCW A-II/1;MV Íris 627;graneleiro;0;h;5;55
+364;17513,16;21/09/2025;05/10/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Hugo Costa;40;STCW A-II/1;SS Nereida 168;container;6224;h;2763;55260
+365;13187;26/12/2024;27/12/2024;Génova;Itália;FigueiraDaFoz;Portugal;Helena Ribeiro;29;Pilotage;SS Guadiana 130;petroleiro;0;m;9;162
+366;2796,9;27/05/2025;16/06/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;João Fernandes;52;CoC Class 2;MV Tejo 730;petroleiro;0;h;4;40
+367;43346,59;22/07/2024;27/07/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Filipe Lopes;52;Yachtmaster;MV Gaivota 880;petroleiro;0;h;5;85
+368;7025,57;11/09/2025;01/10/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Diogo Costa;38;CoC Class 1;MV Açor 759;container;16501;h;11909;238180
+369;6983,39;19/10/2024;08/11/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Miguel Silva;50;STCW A-II/2;NS Guadiana 393;container;15860;h;5116;76740
+370;6062,14;16/07/2024;21/07/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Miguel Carvalho;29;Pilotage;SS Mondego 255;graneleiro;0;h;7;112
+371;49344,88;24/07/2024;05/08/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Patrícia Ferreira;44;Yachtmaster;MV Poseidon 184;petroleiro;0;m;8;144
+372;16833,4;03/08/2024;14/08/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Nuno Ferreira;58;CoC Class 2;MT Mondego 89;petroleiro;0;h;5;70
+373;13457;03/07/2024;10/07/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Ana Gonçalves;55;STCW A-II/2;MT Açor 476;petroleiro;0;m;7;119
+374;33676,35;02/03/2025;20/03/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Marta Carvalho;47;STCW A-II/2;MV Neptuno 25;cargueiro;0;m;9;180
+375;47051,17;30/05/2024;12/06/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Ana Fernandes;40;STCW A-II/1;MT Lusitania 211;graneleiro;0;m;3;54
+376;5601,14;09/01/2025;17/01/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Paulo Nunes;45;STCW A-II/1;MT Atlântida 45;cargueiro;0;h;4;52
+377;13510,02;17/12/2024;23/12/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Joana Lopes;29;Pilotage;MV Sagres 653;container;12873;m;10761;172176
+378;1858,28;11/07/2024;22/07/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Artur Pinto;34;STCW A-II/1;SS Açor 299;graneleiro;0;h;4;60
+379;6542,38;24/05/2024;01/06/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Rita Fernandes;36;CoC Class 1;MT Açor 77;graneleiro;0;m;8;120
+380;11568,08;10/12/2024;24/12/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Artur Pereira;28;STCW A-II/2;SS Íris 478;container;3572;h;3346;46844
+381;29282,08;22/02/2024;09/03/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Inês Carvalho;29;CoC Class 1;NS Minho 475;cargueiro;0;m;5;65
+382;16587,47;07/08/2024;09/08/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Rui Costa;30;Pilotage;MV Argonauta 856;petroleiro;0;h;6;96
+383;43666,92;09/06/2024;18/06/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Rui Martins;49;CoC Class 1;MV Minho 267;graneleiro;0;h;5;65
+384;6346,37;07/08/2025;20/08/2025;Le Havre;França;FigueiraDaFoz;Portugal;Nuno Lopes;55;Yachtmaster;SS Lusitania 474;ro-ro;588;h;539;7546
+385;33712,08;01/09/2025;07/09/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Tiago Silva;28;STCW A-II/1;SS Argonauta 844;cargueiro;0;h;4;60
+386;44016,67;29/03/2025;31/03/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Sofia Pinto;42;Yachtmaster;MV Nereida 67;petroleiro;0;m;4;68
+387;6890,24;05/10/2024;24/10/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Beatriz Ferreira;35;CoC Class 1;MV Íris 52;container;4212;m;3743;63631
+388;18956,62;30/03/2025;14/04/2025;Le Havre;França;FigueiraDaFoz;Portugal;Rita Nunes;25;STCW A-II/1;NS Caravela 363;graneleiro;0;m;4;44
+389;22985,99;22/05/2024;10/06/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Luís Jesus;53;CoC Class 2;MV Açor 663;cargueiro;0;h;5;75
+390;4586,6;31/10/2024;17/11/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Teresa Carvalho;59;CoC Class 2;MV Tejo 393;container;14937;m;9654;135156
+391;23711,21;13/09/2025;27/09/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Marta Ribeiro;34;STCW A-II/2;MV Atlântico 801;ro-ro;1061;m;476;8568
+392;45797,59;03/01/2024;11/01/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Daniela Nunes;26;CoC Class 1;MT Atlântico 277;ro-ro;2601;m;1304;23472
+393;26804,57;08/08/2024;20/08/2024;Le Havre;França;FigueiraDaFoz;Portugal;Bruno Teixeira;29;STCW A-II/2;MT Poseidon 829;container;16853;h;7310;80410
+394;38479,28;26/10/2024;30/10/2024;Génova;Itália;FigueiraDaFoz;Portugal;Bárbara Martins;39;STCW A-II/2;SS Açor 273;container;8734;m;6847;116399
+395;10593,12;21/11/2024;05/12/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Ricardo Pinto;45;CoC Class 2;SS Caravela 243;petroleiro;0;h;5;70
+396;12930,63;01/12/2024;16/12/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Joana Pinto;39;STCW A-II/1;SS Argonauta 857;petroleiro;0;m;9;144
+397;24479,98;20/02/2024;06/03/2024;Génova;Itália;FigueiraDaFoz;Portugal;Carolina Nunes;28;STCW A-II/1;MV Açor 617;container;13576;m;9176;146816
+398;46550,69;29/11/2024;03/12/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Gonçalo Nunes;51;STCW A-II/1;SS Sagres 349;petroleiro;0;h;5;65
+399;30906,36;04/06/2024;07/06/2024;Le Havre;França;FigueiraDaFoz;Portugal;Maria Silva;32;STCW A-II/2;SS Lusitania 867;ro-ro;205;m;74;1036
+400;21263,91;02/01/2024;19/01/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Sofia Gonçalves;37;Pilotage;MV Mondego 310;graneleiro;0;m;6;108
+401;34374,77;10/12/2024;21/12/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;André Marques;31;Pilotage;MT Caravela 725;graneleiro;0;h;7;140
+402;10044,67;08/08/2025;15/08/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Sara Pinto;37;STCW A-II/2;MT Minho 131;graneleiro;0;m;5;90
+403;5264,91;07/11/2024;24/11/2024;Le Havre;França;FigueiraDaFoz;Portugal;Artur Alves;60;Yachtmaster;SS Mondego 944;container;10167;h;8830;167770
+404;30478,98;19/01/2025;31/01/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Artur Pereira;37;CoC Class 2;MT Atlântida 244;cargueiro;0;h;4;40
+405;11390,2;27/04/2024;06/05/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Carolina Ferreira;50;Pilotage;NS Nereida 272;petroleiro;0;m;7;126
+406;18317,65;10/01/2024;20/01/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Rui Gonçalves;32;CoC Class 1;MV Poseidon 396;container;6795;h;3028;42392
+407;14465,5;02/06/2024;07/06/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Carolina Marques;28;CoC Class 2;MT Atlântico 104;graneleiro;0;m;7;98
+408;38566,15;14/06/2025;18/06/2025;Génova;Itália;FigueiraDaFoz;Portugal;André Lopes;34;STCW A-II/1;MT Nereida 327;container;645;h;262;3930
+409;9232,7;14/03/2025;01/04/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Rui Fernandes;29;STCW A-II/2;SS Atlântida 561;graneleiro;0;h;4;64
+410;27232,55;27/04/2025;09/05/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Catarina Teixeira;58;CoC Class 2;NS Caravela 622;container;17514;m;11575;185200
+411;12282,06;07/03/2025;12/03/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Miguel Pereira;39;CoC Class 1;SS Neptuno 714;cargueiro;0;h;6;66
+412;20154,39;30/03/2025;10/04/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Mariana Sousa;34;STCW A-II/2;MV Atlântico 586;container;9660;m;4388;57044
+413;35062,08;23/05/2025;25/05/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Beatriz Santos;59;CoC Class 1;NS Atlântida 302;container;4858;m;4067;81340
+414;49571,54;07/07/2025;14/07/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Marta Pereira;35;STCW A-II/1;SS Minho 84;cargueiro;0;m;6;84
+415;36492,6;28/10/2024;16/11/2024;Génova;Itália;FigueiraDaFoz;Portugal;Hugo Alves;28;CoC Class 2;MT Atlântida 658;graneleiro;0;h;9;90
+416;5197,25;07/07/2025;14/07/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Carolina Gonçalves;60;CoC Class 2;SS Íris 46;petroleiro;0;m;8;144
+417;20658,21;18/12/2024;22/12/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Cláudia Jesus;27;STCW A-II/2;MV Sagres 771;petroleiro;0;m;4;52
+418;26433,93;18/12/2024;24/12/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Diogo Carvalho;28;CoC Class 2;SS Poseidon 861;ro-ro;1904;h;1741;17410
+419;32368,24;03/10/2025;08/10/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Daniela Nunes;51;Yachtmaster;NS Minho 81;cargueiro;0;m;7;98
+420;12310,63;17/08/2024;25/08/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Gonçalo Pinto;27;Yachtmaster;SS Lusitania 973;ro-ro;3161;h;2742;41130
+421;33804,86;27/02/2024;01/03/2024;Sines;Portugal;FigueiraDaFoz;Portugal;André Rodrigues;46;STCW A-II/2;MV Neptuno 81;cargueiro;0;h;4;56
+422;28331,39;20/06/2024;22/06/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Pedro Teixeira;62;CoC Class 1;MV Atlântida 398;petroleiro;0;h;3;30
+423;28552,54;19/12/2024;08/01/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Daniela Fernandes;32;CoC Class 1;NS Nereida 806;ro-ro;761;m;431;6034
+424;32113,04;01/07/2025;06/07/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Inês Marques;37;STCW A-II/2;MV Lusitania 577;cargueiro;0;m;3;57
+425;23068,18;29/10/2024;14/11/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Daniela Gonçalves;54;CoC Class 2;NS Gaivota 586;petroleiro;0;m;4;64
+426;33580,67;12/01/2024;29/01/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Maria Costa;40;CoC Class 1;SS Atlântico 40;graneleiro;0;m;9;153
+427;12497,46;29/05/2025;14/06/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Sara Santos;54;Pilotage;MT Guadiana 21;graneleiro;0;m;6;114
+428;12939,18;13/12/2024;01/01/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Mariana Jesus;29;CoC Class 2;SS Sagres 308;container;9055;m;4990;84830
+429;7257,96;12/10/2024;01/11/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Patrícia Marques;30;Yachtmaster;SS Íris 217;container;5395;m;3010;60200
+430;2771,86;04/04/2025;10/04/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Helena Gonçalves;58;STCW A-II/1;SS Atlântida 319;ro-ro;2656;m;1538;26146
+431;5294,49;25/04/2025;13/05/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Beatriz Ribeiro;26;Yachtmaster;SS Argonauta 897;container;19292;m;10849;216980
+432;14705,47;24/03/2025;04/04/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Ricardo Santos;27;CoC Class 2;MT Argonauta 281;container;5799;h;3746;63682
+433;39527,52;14/07/2024;01/08/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Helena Alves;30;Pilotage;MV Açor 382;container;18326;m;13270;212320
+434;6701,95;22/05/2024;27/05/2024;Génova;Itália;FigueiraDaFoz;Portugal;Carolina Nunes;36;Yachtmaster;MT Guadiana 168;ro-ro;660;m;453;7701
+435;44020,74;16/08/2025;29/08/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Hugo Silva;59;CoC Class 2;SS Argonauta 878;container;11921;h;3885;62160
+436;39711,49;06/04/2025;12/04/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Carlos Jesus;27;Pilotage;MV Nereida 486;graneleiro;0;h;6;60
+437;20746,03;09/06/2025;18/06/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Vítor Silva;39;STCW A-II/2;MT Tejo 434;petroleiro;0;h;5;60
+438;17958,89;31/07/2025;02/08/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Cláudia Jesus;59;STCW A-II/2;MT Atlântico 599;graneleiro;0;m;7;84
+439;46215,1;22/09/2024;24/09/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Gonçalo Gonçalves;49;Yachtmaster;MT Minho 701;ro-ro;5508;h;2391;35865
+440;47687,08;19/04/2024;05/05/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Sofia Fernandes;27;CoC Class 1;MT Tejo 672;petroleiro;0;m;3;60
+441;24433,47;25/01/2024;07/02/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Pedro Ribeiro;58;STCW A-II/2;NS Mondego 698;container;16251;h;6367;108239
+442;4918,3;20/06/2025;05/07/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Filipe Sousa;28;CoC Class 1;NS Atlântico 755;graneleiro;0;h;3;30
+443;43929,15;12/01/2024;25/01/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Bruno Martins;55;Pilotage;NS Guadiana 520;ro-ro;945;h;783;7830
+444;1866,7;22/03/2025;28/03/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Henrique Costa;56;CoC Class 1;NS Sagres 759;container;18768;h;9596;134344
+445;4006,13;09/05/2024;28/05/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Bruno Ferreira;55;STCW A-II/2;SS Minho 431;petroleiro;0;h;4;76
+446;11376,01;11/04/2025;13/04/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Patrícia Pinto;34;CoC Class 1;MV Gaivota 55;graneleiro;0;m;7;70
+447;12719,83;16/01/2025;27/01/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Filipe Rodrigues;55;Yachtmaster;NS Minho 424;container;5578;h;3623;36230
+448;15860,48;08/04/2024;17/04/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Pedro Rodrigues;52;CoC Class 1;NS Sagres 324;graneleiro;0;h;5;65
+449;4052,3;19/09/2024;05/10/2024;Le Havre;França;FigueiraDaFoz;Portugal;Filipe Fernandes;40;Pilotage;MT Poseidon 5;cargueiro;0;h;4;48
+450;12399,63;16/09/2024;20/09/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Marta Costa;41;Yachtmaster;NS Atlântida 133;cargueiro;0;m;7;84
+451;31570,9;14/01/2025;03/02/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Teresa Alves;53;CoC Class 2;NS Nereida 39;graneleiro;0;m;9;153
+452;33049,71;03/05/2024;09/05/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Diogo Silva;61;CoC Class 1;SS Nereida 693;ro-ro;5793;h;5241;99579
+453;21292,36;27/04/2025;04/05/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Ricardo Gonçalves;51;CoC Class 1;MV Atlântico 516;cargueiro;0;h;6;60
+454;19966,86;09/06/2025;16/06/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Carolina Ferreira;61;STCW A-II/1;MT Íris 746;petroleiro;0;m;6;102
+455;21510,45;06/10/2025;08/10/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Teresa Oliveira;51;CoC Class 1;MT Argonauta 169;graneleiro;0;m;6;66
+456;7718,38;13/08/2025;23/08/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Ricardo Martins;47;Pilotage;SS Nereida 604;cargueiro;0;h;5;75
+457;48817,81;26/02/2025;03/03/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Tiago Gonçalves;25;Pilotage;NS Tejo 790;container;15328;h;7453;74530
+458;19199,02;03/12/2024;08/12/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Vítor Santos;56;Pilotage;MV Poseidon 707;container;663;h;619;6809
+459;14034,94;11/05/2025;22/05/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Cláudia Alves;45;STCW A-II/1;MT Gaivota 719;ro-ro;2455;m;1105;14365
+460;37130,5;20/09/2025;24/09/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;João Sousa;58;CoC Class 2;MT Sagres 429;container;5219;h;4599;50589
+461;20329,34;14/08/2024;23/08/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Hugo Pereira;53;STCW A-II/1;SS Argonauta 797;graneleiro;0;h;8;88
+462;47854,89;25/02/2025;07/03/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Diogo Marques;45;CoC Class 1;MV Gaivota 933;cargueiro;0;h;9;135
+463;16454,94;16/09/2025;25/09/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Raquel Martins;41;STCW A-II/1;MV Lusitania 856;container;3691;m;2443;39088
+464;42202,71;08/05/2024;10/05/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Beatriz Ferreira;53;Yachtmaster;MV Tejo 660;container;9812;m;6829;88777
+465;44860,77;19/08/2024;30/08/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Mariana Jesus;58;CoC Class 2;MV Caravela 896;container;17659;m;15417;169587
+466;4265,95;18/07/2024;04/08/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Joana Fernandes;39;CoC Class 2;MV Poseidon 10;container;8580;m;6939;97146
+467;49425,49;21/06/2024;10/07/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Bruno Gonçalves;29;CoC Class 2;MT Atlântida 382;ro-ro;5635;h;2913;43695
+468;3041,97;27/03/2024;01/04/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Tiago Alves;32;CoC Class 2;MT Atlântico 707;graneleiro;0;h;5;55
+469;40304,4;19/05/2025;30/05/2025;Génova;Itália;FigueiraDaFoz;Portugal;Carolina Pereira;25;STCW A-II/2;SS Lusitania 427;container;8288;m;5234;88978
+470;37137,91;27/04/2025;14/05/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Bárbara Lopes;29;STCW A-II/2;NS Guadiana 627;ro-ro;247;m;121;2057
+471;48566,75;31/12/2024;04/01/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Filipe Nunes;35;STCW A-II/1;NS Poseidon 65;graneleiro;0;h;5;70
+472;9531,36;29/07/2024;05/08/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Ana Ribeiro;52;Pilotage;SS Mondego 532;ro-ro;662;m;515;8755
+473;41696,19;17/09/2024;22/09/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Paulo Martins;54;CoC Class 2;NS Sagres 860;petroleiro;0;h;5;100
+474;5048,27;03/06/2025;13/06/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;João Costa;62;Yachtmaster;NS Caravela 77;graneleiro;0;h;5;60
+475;19715,04;02/01/2025;19/01/2025;Génova;Itália;FigueiraDaFoz;Portugal;Sara Fernandes;55;CoC Class 1;SS Atlântico 413;container;2876;m;974;15584
+476;38957,06;14/07/2025;18/07/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Manuel Lopes;28;Yachtmaster;MV Gaivota 458;graneleiro;0;h;8;120
+477;40137;17/06/2024;05/07/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Filipe Silva;34;STCW A-II/1;NS Poseidon 571;graneleiro;0;h;6;84
+478;30492,2;13/10/2025;21/10/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Rui Teixeira;26;Yachtmaster;SS Íris 974;petroleiro;0;h;5;60
+479;31208,49;08/06/2024;24/06/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Maria Martins;56;CoC Class 2;NS Guadiana 734;petroleiro;0;m;3;51
+480;17575,11;13/08/2024;24/08/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Tiago Martins;34;STCW A-II/1;MT Minho 561;petroleiro;0;h;3;48
+481;19423,65;05/02/2025;14/02/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Inês Santos;49;STCW A-II/2;SS Neptuno 110;graneleiro;0;m;7;140
+482;14415,77;03/05/2024;21/05/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Carlos Pereira;46;CoC Class 2;NS Argonauta 734;cargueiro;0;h;7;77
+483;33901,29;20/06/2024;09/07/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Paulo Santos;45;Pilotage;MV Íris 469;ro-ro;4166;h;1838;33084
+484;27656,81;09/08/2024;16/08/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Filipe Silva;36;Yachtmaster;NS Gaivota 947;container;18140;h;13938;167256
+485;48941,47;28/05/2024;10/06/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Artur Costa;45;Pilotage;MV Atlântico 674;cargueiro;0;h;9;99
+486;33151,93;28/10/2024;05/11/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Helena Alves;31;CoC Class 2;SS Tejo 408;ro-ro;4858;m;4323;86460
+487;46932,02;21/07/2024;01/08/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Cláudia Oliveira;49;STCW A-II/2;MT Mondego 729;graneleiro;0;m;4;40
+488;34579,6;10/04/2025;12/04/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Carlos Rodrigues;53;Yachtmaster;MT Sagres 728;petroleiro;0;h;6;72
+489;24931,31;11/03/2025;29/03/2025;Le Havre;França;FigueiraDaFoz;Portugal;Inês Gonçalves;55;Yachtmaster;NS Minho 899;graneleiro;0;m;5;75
+490;21257,41;10/02/2025;22/02/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Gonçalo Pereira;37;STCW A-II/1;SS Poseidon 687;graneleiro;0;h;3;48
+491;15579,87;24/02/2025;25/02/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Luís Costa;27;CoC Class 1;SS Poseidon 708;petroleiro;0;h;8;88
+492;38294,96;19/01/2024;26/01/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Henrique Santos;49;CoC Class 1;MV Açor 761;graneleiro;0;h;9;135
+493;40775,86;20/04/2024;28/04/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Sara Ribeiro;40;Pilotage;MV Atlântico 397;petroleiro;0;m;6;120
+494;14617,2;17/09/2024;20/09/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Daniela Santos;25;STCW A-II/1;SS Íris 850;petroleiro;0;m;5;80
+495;16235,52;27/04/2025;07/05/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Bárbara Carvalho;58;Pilotage;SS Argonauta 302;ro-ro;3662;m;3055;42770
+496;34706,32;08/02/2025;22/02/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Rui Costa;51;STCW A-II/2;MV Atlântico 42;ro-ro;1022;h;658;8554
+497;28157,1;21/04/2024;04/05/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Daniela Jesus;33;STCW A-II/2;MT Nereida 339;cargueiro;0;m;6;102
+498;2730,26;20/08/2025;30/08/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Miguel Oliveira;50;CoC Class 1;MV Minho 503;ro-ro;413;h;288;5184
+499;37727,73;27/07/2024;10/08/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Sofia Fernandes;38;Yachtmaster;SS Atlântida 806;cargueiro;0;m;4;60
+500;38056,97;12/03/2025;01/04/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Paulo Carvalho;35;Yachtmaster;MV Guadiana 227;graneleiro;0;h;8;96
+501;7110,99;10/03/2024;29/03/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Raquel Gonçalves;61;CoC Class 1;NS Nereida 118;cargueiro;0;m;7;133
+502;39239,59;14/09/2025;18/09/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Sara Teixeira;44;Yachtmaster;MV Mondego 391;cargueiro;0;m;9;126
+503;21218,47;14/08/2024;19/08/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Patrícia Carvalho;62;Pilotage;MV Guadiana 527;petroleiro;0;m;5;60
+504;9177,37;08/02/2025;18/02/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Gabriela Santos;62;CoC Class 1;MT Atlântida 971;cargueiro;0;m;4;60
+505;24567,67;06/07/2024;19/07/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Henrique Carvalho;44;STCW A-II/1;SS Argonauta 886;container;11322;h;5160;92880
+506;6102,73;09/06/2025;12/06/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Carlos Carvalho;48;Pilotage;MV Sagres 25;graneleiro;0;h;9;171
+507;30570,9;24/02/2024;15/03/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Maria Ferreira;28;STCW A-II/1;SS Tejo 572;container;4459;m;3799;37990
+508;14221,22;10/06/2024;28/06/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Luís Marques;43;CoC Class 2;NS Neptuno 324;graneleiro;0;h;6;72
+509;35075,37;29/02/2024;19/03/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Inês Carvalho;43;STCW A-II/1;MV Poseidon 718;ro-ro;4601;m;3658;69502
+510;41431,4;16/03/2024;22/03/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Helena Pereira;55;CoC Class 1;MV Minho 784;petroleiro;0;m;6;102
+511;6996,46;19/01/2024;04/02/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Rita Silva;60;CoC Class 2;SS Sagres 765;cargueiro;0;m;6;96
+512;19199,68;22/04/2024;23/04/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Beatriz Sousa;42;Pilotage;MV Sagres 127;petroleiro;0;m;5;60
+513;15672,73;22/04/2024;07/05/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Artur Teixeira;35;CoC Class 2;MV Minho 216;ro-ro;1119;h;821;14778
+514;32172,69;09/06/2024;26/06/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Paulo Ribeiro;30;STCW A-II/2;SS Açor 632;cargueiro;0;h;9;162
+515;42150,31;16/02/2024;02/03/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Tiago Costa;30;Pilotage;MV Íris 661;ro-ro;5778;h;3087;46305
+516;29800,7;15/03/2024;22/03/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Hugo Ferreira;33;CoC Class 1;SS Gaivota 975;container;13389;h;7370;81070
+517;17391,05;19/05/2025;08/06/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Beatriz Martins;34;STCW A-II/1;MV Argonauta 326;petroleiro;0;m;9;90
+518;41753,16;10/09/2025;27/09/2025;Génova;Itália;FigueiraDaFoz;Portugal;Raquel Teixeira;54;Pilotage;SS Guadiana 828;petroleiro;0;m;6;120
+519;22053,18;16/07/2025;04/08/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Carolina Silva;59;CoC Class 1;SS Neptuno 284;cargueiro;0;m;3;51
+520;40329,52;03/08/2025;08/08/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Bruno Nunes;44;CoC Class 2;MT Minho 499;graneleiro;0;h;3;51
+521;7540,52;14/03/2024;19/03/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;André Teixeira;60;STCW A-II/1;SS Argonauta 270;petroleiro;0;h;6;84
+522;36745,9;16/09/2024;23/09/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;João Ribeiro;59;Pilotage;NS Argonauta 929;container;3339;h;1948;19480
+523;46208,53;30/06/2024;14/07/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Daniela Carvalho;55;CoC Class 2;MT Atlântico 229;cargueiro;0;m;8;80
+524;13823,58;01/07/2025;13/07/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Beatriz Lopes;54;Yachtmaster;MV Atlântico 373;ro-ro;1465;m;1254;22572
+525;14325,54;11/06/2024;25/06/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Ricardo Teixeira;34;Pilotage;SS Íris 164;cargueiro;0;h;5;65
+526;39058,82;30/06/2024;10/07/2024;Le Havre;França;FigueiraDaFoz;Portugal;Filipe Gonçalves;49;STCW A-II/1;NS Açor 65;cargueiro;0;h;7;84
+527;2647,07;09/07/2025;18/07/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Sara Santos;60;Pilotage;MT Atlântico 481;cargueiro;0;m;7;98
+528;21143,68;18/08/2025;05/09/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Miguel Fernandes;45;STCW A-II/1;MT Tejo 593;ro-ro;789;h;425;4675
+529;33525,69;02/06/2025;08/06/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Nuno Alves;39;CoC Class 1;MV Tejo 386;ro-ro;771;h;731;12427
+530;20278,94;27/05/2024;11/06/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Joana Gonçalves;31;CoC Class 2;MV Sagres 451;graneleiro;0;m;5;85
+531;49083,56;06/05/2025;20/05/2025;Le Havre;França;FigueiraDaFoz;Portugal;Rui Ribeiro;61;Pilotage;SS Sagres 192;petroleiro;0;h;9;90
+532;36532,63;22/03/2024;27/03/2024;Le Havre;França;FigueiraDaFoz;Portugal;Catarina Pereira;27;Pilotage;NS Mondego 738;cargueiro;0;m;3;60
+533;30817,84;31/10/2024;19/11/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Gabriela Nunes;49;STCW A-II/2;SS Neptuno 23;ro-ro;5048;m;1687;32053
+534;8411,09;20/03/2025;29/03/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Pedro Pinto;57;Yachtmaster;SS Poseidon 913;cargueiro;0;h;9;144
+535;28499,92;04/05/2025;11/05/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Miguel Costa;46;CoC Class 1;NS Nereida 900;cargueiro;0;h;5;75
+536;36417,9;15/08/2025;17/08/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Carlos Lopes;52;Yachtmaster;NS Caravela 225;graneleiro;0;h;9;171
+537;5004,54;26/02/2025;15/03/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Artur Costa;41;Yachtmaster;MT Caravela 742;ro-ro;1733;h;802;12832
+538;22002,9;16/07/2024;18/07/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Catarina Pinto;25;STCW A-II/1;NS Atlântico 136;cargueiro;0;m;5;80
+539;42648,79;31/05/2025;02/06/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Carlos Ribeiro;46;Yachtmaster;SS Lusitania 182;graneleiro;0;h;9;90
+540;21176,51;06/03/2024;16/03/2024;Génova;Itália;FigueiraDaFoz;Portugal;Henrique Ribeiro;58;STCW A-II/1;NS Sagres 924;container;11907;h;5423;54230
+541;15238,79;28/09/2025;05/10/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Paulo Ribeiro;46;CoC Class 2;MV Neptuno 235;petroleiro;0;h;4;72
+542;39905,5;20/10/2024;30/10/2024;Génova;Itália;FigueiraDaFoz;Portugal;Joana Pinto;59;Pilotage;MV Neptuno 138;ro-ro;1827;m;606;7272
+543;27697,54;14/07/2025;21/07/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Sara Ferreira;45;CoC Class 1;NS Tejo 194;ro-ro;4727;m;2665;39975
+544;11039,18;08/03/2024;22/03/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Artur Ribeiro;46;STCW A-II/1;MV Atlântico 671;ro-ro;5874;h;4833;53163
+545;8919,37;31/07/2024;15/08/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Teresa Gonçalves;46;STCW A-II/1;NS Tejo 268;cargueiro;0;m;5;85
+546;38828,61;15/01/2025;24/01/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Bárbara Gonçalves;52;Yachtmaster;NS Argonauta 424;petroleiro;0;m;5;55
+547;23732,64;22/03/2025;24/03/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Carolina Gonçalves;49;Yachtmaster;NS Tejo 315;ro-ro;5979;m;5457;109140
+548;23133,14;13/02/2024;14/02/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Rita Oliveira;59;Pilotage;SS Íris 802;container;16295;m;13623;149853
+549;22612,54;13/01/2025;31/01/2025;Le Havre;França;FigueiraDaFoz;Portugal;Carlos Ribeiro;43;CoC Class 2;MV Caravela 399;petroleiro;0;h;9;90
+550;5607,77;18/05/2025;30/05/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Pedro Nunes;34;Yachtmaster;MV Atlântida 270;graneleiro;0;h;8;80
+551;14545,64;22/05/2025;31/05/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Sofia Teixeira;60;STCW A-II/1;NS Minho 729;graneleiro;0;m;3;45
+552;27118,41;12/03/2024;21/03/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;André Nunes;39;CoC Class 2;SS Minho 200;container;2785;h;2187;43740
+553;9135,68;07/07/2025;27/07/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Vítor Costa;30;Pilotage;MT Açor 671;container;12031;h;10980;153720
+554;44962,13;21/01/2025;03/02/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Rui Jesus;27;CoC Class 2;NS Atlântico 601;petroleiro;0;h;6;84
+555;30307,52;09/02/2024;15/02/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Rui Ferreira;57;Yachtmaster;MT Guadiana 987;petroleiro;0;h;3;51
+556;33060,34;03/06/2025;08/06/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Vítor Rodrigues;56;CoC Class 2;MV Tejo 180;graneleiro;0;h;6;96
+557;40131,07;10/09/2025;15/09/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Henrique Ferreira;28;Yachtmaster;MT Lusitania 823;petroleiro;0;h;5;80
+558;6764,56;31/12/2024;19/01/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Daniela Pinto;56;CoC Class 1;NS Gaivota 789;graneleiro;0;m;5;50
+559;32098,89;16/01/2024;17/01/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Cláudia Lopes;45;Yachtmaster;NS Lusitania 265;container;17553;m;9854;197080
+560;33150,57;16/09/2024;22/09/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Sara Martins;55;CoC Class 1;MT Nereida 718;graneleiro;0;m;8;120
+561;5558,49;01/10/2025;06/10/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Hugo Ferreira;49;CoC Class 2;MV Caravela 488;petroleiro;0;h;9;99
+562;11277,89;14/07/2024;03/08/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Marta Pinto;58;CoC Class 1;SS Gaivota 755;cargueiro;0;m;4;76
+563;43050,68;06/10/2025;09/10/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Ricardo Jesus;52;STCW A-II/2;SS Açor 857;cargueiro;0;h;4;52
+564;49415,21;06/01/2025;12/01/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Beatriz Pereira;30;STCW A-II/1;NS Nereida 783;container;16799;m;11196;223920
+565;18532,12;25/03/2025;09/04/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Filipe Gonçalves;33;Yachtmaster;NS Tejo 503;petroleiro;0;h;6;96
+566;17425,19;13/08/2024;16/08/2024;Le Havre;França;FigueiraDaFoz;Portugal;Rita Martins;36;Yachtmaster;MV Neptuno 490;cargueiro;0;m;3;39
+567;21585,82;03/10/2024;04/10/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Gonçalo Gonçalves;45;CoC Class 2;NS Lusitania 716;cargueiro;0;h;7;70
+568;37692,49;29/06/2025;08/07/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Raquel Silva;42;STCW A-II/1;NS Lusitania 334;cargueiro;0;m;9;108
+569;37165,39;05/10/2024;21/10/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Carolina Carvalho;46;CoC Class 1;MT Gaivota 982;cargueiro;0;m;4;72
+570;48976,14;11/09/2025;22/09/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Joana Costa;54;CoC Class 2;SS Neptuno 718;graneleiro;0;m;9;135
+571;6210,84;15/10/2024;04/11/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Rita Jesus;40;CoC Class 2;SS Açor 834;cargueiro;0;m;8;96
+572;34401,8;27/04/2025;05/05/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Sara Carvalho;52;CoC Class 2;SS Sagres 820;graneleiro;0;m;3;57
+573;12131,8;29/03/2025;07/04/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Ana Costa;44;CoC Class 2;SS Mondego 805;graneleiro;0;m;8;120
+574;26120,08;01/10/2025;04/10/2025;Génova;Itália;FigueiraDaFoz;Portugal;Patrícia Carvalho;28;Yachtmaster;NS Lusitania 708;container;941;m;714;14280
+575;12405,39;22/05/2024;25/05/2024;Le Havre;França;FigueiraDaFoz;Portugal;Carlos Jesus;38;CoC Class 2;NS Mondego 267;container;17343;h;6442;103072
+576;45043,52;27/01/2025;30/01/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Daniela Carvalho;37;CoC Class 1;MV Neptuno 125;petroleiro;0;m;4;56
+577;9284,97;24/04/2024;25/04/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Artur Pinto;30;Pilotage;SS Minho 364;ro-ro;2554;h;1773;35460
+578;43363,62;19/12/2024;02/01/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Cláudia Ferreira;62;CoC Class 2;MT Íris 647;ro-ro;241;m;158;2686
+579;24474,43;30/06/2025;19/07/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Bruno Marques;54;Pilotage;NS Atlântida 82;ro-ro;4017;h;3726;59616
+580;2331,58;07/10/2024;15/10/2024;Le Havre;França;FigueiraDaFoz;Portugal;Sara Fernandes;48;CoC Class 1;MT Atlântico 278;petroleiro;0;m;3;45
+581;48666,04;05/09/2025;21/09/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Bárbara Ribeiro;43;CoC Class 2;SS Caravela 875;graneleiro;0;m;4;40
+582;49108,14;01/03/2025;20/03/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Ricardo Jesus;33;Pilotage;SS Caravela 407;container;5575;h;3702;59232
+583;23042,27;03/03/2024;12/03/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Rui Nunes;43;Yachtmaster;MV Atlântico 537;container;19874;h;13166;144826
+584;12852,8;29/04/2024;05/05/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Luís Teixeira;60;STCW A-II/2;NS Minho 235;container;11204;h;5680;85200
+585;30319,52;15/11/2024;16/11/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Cláudia Oliveira;49;STCW A-II/2;SS Nereida 36;ro-ro;5873;m;3072;36864
+586;4160,07;29/11/2024;08/12/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Gabriela Lopes;28;Yachtmaster;NS Sagres 993;petroleiro;0;m;6;90
+587;49462,39;28/05/2025;06/06/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Artur Teixeira;46;CoC Class 2;NS Minho 931;ro-ro;4108;h;2155;43100
+588;42069,46;11/09/2024;27/09/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Daniela Martins;53;STCW A-II/1;MT Guadiana 423;graneleiro;0;m;6;60
+589;49776,44;07/03/2025;19/03/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Hugo Silva;59;STCW A-II/1;SS Guadiana 294;ro-ro;878;h;358;5012
+590;30349,95;15/07/2025;20/07/2025;Génova;Itália;FigueiraDaFoz;Portugal;Filipe Nunes;44;CoC Class 1;NS Minho 612;container;12632;h;6882;123876
+591;43559,02;19/07/2024;28/07/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Henrique Gonçalves;28;STCW A-II/2;NS Atlântico 256;graneleiro;0;h;8;144
+592;22090,94;26/04/2025;27/04/2025;Le Havre;França;FigueiraDaFoz;Portugal;Rita Martins;32;CoC Class 1;NS Açor 530;container;842;m;722;8664
+593;30494,25;27/11/2024;09/12/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Mariana Carvalho;39;CoC Class 1;SS Atlântida 187;graneleiro;0;m;3;54
+594;9358,51;26/01/2024;15/02/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Inês Lopes;53;Yachtmaster;MT Gaivota 193;graneleiro;0;m;3;36
+595;12634,24;16/06/2025;05/07/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Pedro Santos;62;Yachtmaster;SS Lusitania 289;container;12966;h;10196;112156
+596;48567,54;30/03/2025;03/04/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Manuel Silva;46;STCW A-II/2;SS Nereida 506;container;16800;h;6306;126120
+597;30431,9;06/05/2025;08/05/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Teresa Sousa;48;CoC Class 2;NS Poseidon 339;petroleiro;0;m;9;162
+598;20941,62;26/12/2024;27/12/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Miguel Jesus;32;CoC Class 2;NS Caravela 197;container;9802;h;7420;89040
+599;2948,53;01/08/2024;19/08/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Ana Pereira;41;Pilotage;NS Íris 254;cargueiro;0;m;8;112
+600;14563,9;18/09/2024;26/09/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Manuel Pereira;43;Yachtmaster;NS Atlântico 698;cargueiro;0;h;9;90
+601;24017,44;24/03/2025;06/04/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Carolina Santos;59;Pilotage;MV Tejo 493;ro-ro;5643;m;5351;107020
+602;11142,64;07/03/2025;20/03/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Diogo Santos;44;Pilotage;MV Açor 649;cargueiro;0;h;5;70
+603;42352,31;14/10/2025;20/10/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Ana Costa;32;CoC Class 1;MV Atlântico 809;ro-ro;4750;m;1842;27630
+604;22488,39;24/08/2025;31/08/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Miguel Pinto;45;Pilotage;SS Guadiana 790;graneleiro;0;h;8;144
+605;5267,55;13/11/2024;23/11/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;André Nunes;33;STCW A-II/1;MT Poseidon 62;ro-ro;5563;h;3610;64980
+606;27048,37;06/07/2025;23/07/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Henrique Pereira;48;STCW A-II/2;SS Mondego 572;graneleiro;0;h;9;126
+607;34095,59;24/07/2025;31/07/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Marta Silva;37;Pilotage;MT Sagres 257;graneleiro;0;m;6;102
+608;46541,91;08/05/2025;27/05/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Cláudia Carvalho;35;CoC Class 1;NS Argonauta 581;ro-ro;1456;m;904;14464
+609;44230,67;10/07/2025;11/07/2025;Le Havre;França;FigueiraDaFoz;Portugal;Raquel Lopes;43;CoC Class 1;SS Atlântida 544;ro-ro;3503;m;1455;18915
+610;41365,73;18/04/2024;30/04/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Mariana Jesus;57;Yachtmaster;NS Nereida 795;petroleiro;0;m;6;72
+611;43281,14;12/04/2024;17/04/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Carolina Silva;32;Yachtmaster;SS Mondego 739;petroleiro;0;m;5;85
+612;2987,38;22/06/2024;05/07/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Marta Ribeiro;47;Pilotage;SS Minho 331;graneleiro;0;m;7;77
+613;5521,95;19/11/2024;20/11/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Inês Pereira;60;Yachtmaster;MV Sagres 183;container;17477;m;10461;115071
+614;20807,75;15/02/2025;23/02/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Tiago Nunes;44;STCW A-II/2;MV Atlântico 674;container;4308;h;1536;24576
+615;32658,71;10/02/2024;17/02/2024;Génova;Itália;FigueiraDaFoz;Portugal;Maria Gonçalves;26;STCW A-II/2;MV Nereida 953;ro-ro;5154;m;4648;60424
+616;32168,71;20/07/2024;22/07/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Sofia Lopes;35;Pilotage;MT Neptuno 842;container;9601;m;3889;70002
+617;36474,68;27/04/2024;06/05/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Vítor Jesus;52;Yachtmaster;MV Minho 80;container;17654;h;9031;180620
+618;4255,75;20/09/2025;22/09/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Tiago Martins;53;Yachtmaster;SS Argonauta 539;graneleiro;0;h;4;60
+619;35049,24;15/12/2024;23/12/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Henrique Carvalho;26;CoC Class 2;MT Íris 720;container;13892;h;8061;88671
+620;5135,23;24/09/2024;27/09/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;André Costa;25;Yachtmaster;MT Caravela 547;graneleiro;0;h;8;120
+621;23863,78;22/12/2024;08/01/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Joana Fernandes;55;Yachtmaster;MT Neptuno 783;petroleiro;0;m;7;77
+622;34932,15;11/02/2025;17/02/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Catarina Martins;52;Yachtmaster;SS Atlântico 785;ro-ro;2424;m;1584;28512
+623;16009,36;23/02/2025;26/02/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Joana Lopes;33;CoC Class 2;MV Poseidon 292;graneleiro;0;m;6;108
+624;41298,7;25/09/2025;07/10/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Gonçalo Oliveira;58;CoC Class 1;MT Açor 220;container;2323;h;1817;32706
+625;22118,28;04/06/2024;16/06/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Luís Carvalho;39;Yachtmaster;SS Lusitania 39;ro-ro;5260;h;4358;65370
+626;19187,45;25/12/2024;05/01/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Beatriz Oliveira;56;CoC Class 1;SS Açor 263;petroleiro;0;m;7;77
+627;26764,82;27/04/2024;01/05/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Artur Alves;57;Yachtmaster;MV Mondego 812;cargueiro;0;h;3;45
+628;3194,14;16/10/2024;21/10/2024;Génova;Itália;FigueiraDaFoz;Portugal;Filipe Pinto;31;STCW A-II/1;MT Poseidon 749;ro-ro;3367;h;1780;17800
+629;17648,67;11/07/2024;26/07/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Sofia Santos;44;CoC Class 1;NS Neptuno 953;petroleiro;0;m;3;45
+630;1328,81;20/07/2024;07/08/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Vítor Silva;52;Pilotage;MV Minho 537;graneleiro;0;h;9;135
+631;42509,83;23/04/2025;04/05/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Daniela Pinto;62;STCW A-II/2;SS Sagres 52;petroleiro;0;m;8;80
+632;23246,08;26/01/2025;28/01/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Catarina Pinto;36;Yachtmaster;SS Neptuno 297;container;16345;m;5670;107730
+633;12195,85;22/01/2025;08/02/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Pedro Fernandes;29;STCW A-II/1;MV Atlântico 269;graneleiro;0;h;9;135
+634;7653,66;09/12/2024;12/12/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Helena Marques;35;Pilotage;SS Gaivota 573;cargueiro;0;m;7;119
+635;20376,28;03/06/2024;17/06/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Rita Pinto;51;STCW A-II/2;SS Açor 74;ro-ro;1357;m;619;9904
+636;6690,81;18/09/2024;03/10/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Raquel Pinto;54;STCW A-II/1;NS Neptuno 375;container;2669;m;2532;43044
+637;41508,66;18/06/2024;23/06/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Bruno Gonçalves;59;Yachtmaster;MT Caravela 359;container;1285;h;779;7790
+638;17678,97;03/01/2025;16/01/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Catarina Oliveira;41;CoC Class 2;SS Argonauta 702;container;4307;m;3600;46800
+639;28131,86;08/03/2024;13/03/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Rui Pereira;61;Pilotage;SS Sagres 890;container;16348;h;10701;117711
+640;15814,33;30/12/2024;18/01/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Bruno Pereira;27;CoC Class 1;NS Nereida 340;graneleiro;0;h;4;80
+641;17779,95;19/02/2025;04/03/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Carlos Carvalho;45;Yachtmaster;NS Sagres 712;petroleiro;0;h;9;162
+642;28327,73;16/06/2025;28/06/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Bárbara Ribeiro;35;STCW A-II/1;SS Poseidon 291;petroleiro;0;m;9;90
+643;22758,14;13/05/2025;14/05/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Maria Lopes;52;Pilotage;MV Atlântico 677;container;16496;m;11365;113650
+644;11158,14;20/04/2024;22/04/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Inês Silva;35;CoC Class 1;SS Atlântico 521;graneleiro;0;m;5;95
+645;16965,33;23/05/2025;09/06/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Gabriela Teixeira;59;Yachtmaster;SS Argonauta 513;container;2651;m;1798;35960
+646;8251,22;13/06/2024;20/06/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Miguel Martins;45;Yachtmaster;MT Gaivota 403;petroleiro;0;h;9;180
+647;27608,2;31/05/2025;17/06/2025;Le Havre;França;FigueiraDaFoz;Portugal;Diogo Gonçalves;61;CoC Class 1;SS Tejo 832;petroleiro;0;h;4;44
+648;18319,58;04/03/2024;06/03/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Rita Silva;35;Yachtmaster;SS Sagres 350;petroleiro;0;m;7;126
+649;39734,98;12/07/2025;24/07/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Rui Alves;45;Yachtmaster;SS Neptuno 247;ro-ro;3929;h;1335;26700
+650;34357,04;20/04/2025;25/04/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Paulo Sousa;41;Yachtmaster;NS Sagres 212;petroleiro;0;h;3;42
+651;23671,1;11/07/2025;23/07/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Pedro Sousa;30;Pilotage;SS Neptuno 931;ro-ro;982;h;652;8476
+652;29847,84;30/10/2024;11/11/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Bruno Ferreira;56;Yachtmaster;MV Caravela 326;ro-ro;4777;h;3511;52665
+653;10957,93;15/08/2024;21/08/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Bruno Marques;35;CoC Class 2;NS Tejo 156;petroleiro;0;h;6;96
+654;46018;03/08/2024;18/08/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Pedro Costa;51;STCW A-II/1;MT Açor 611;ro-ro;4910;h;2467;39472
+655;43413,28;13/05/2025;31/05/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;João Gonçalves;41;STCW A-II/1;SS Gaivota 730;graneleiro;0;h;5;80
+656;40522,88;22/03/2024;10/04/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Nuno Nunes;28;CoC Class 2;SS Argonauta 232;cargueiro;0;h;3;51
+657;3914,11;11/06/2024;27/06/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Ana Jesus;33;CoC Class 2;SS Argonauta 68;cargueiro;0;m;7;140
+658;44761,42;02/12/2024;19/12/2024;Le Havre;França;FigueiraDaFoz;Portugal;Catarina Nunes;57;Pilotage;NS Açor 438;petroleiro;0;m;5;55
+659;22967,63;26/05/2024;01/06/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Vítor Alves;27;Pilotage;NS Poseidon 534;petroleiro;0;h;4;40
+660;38367,22;13/01/2024;28/01/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Cláudia Santos;55;STCW A-II/2;NS Poseidon 572;ro-ro;2867;m;2387;47740
+661;34934,09;22/01/2024;02/02/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Carlos Sousa;27;CoC Class 2;MT Minho 473;graneleiro;0;h;7;105
+662;14659,23;15/11/2024;01/12/2024;Le Havre;França;FigueiraDaFoz;Portugal;Mariana Teixeira;36;STCW A-II/1;SS Íris 850;ro-ro;3852;m;3264;45696
+663;10831,9;12/10/2024;27/10/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Gonçalo Pereira;59;STCW A-II/2;SS Atlântico 424;ro-ro;4214;h;1549;26333
+664;1701,45;22/04/2024;30/04/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Ana Costa;31;CoC Class 2;SS Íris 93;ro-ro;641;m;234;4680
+665;37283,33;05/03/2024;09/03/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Carolina Pereira;49;STCW A-II/1;NS Guadiana 88;container;10264;m;9623;192460
+666;38677,22;02/07/2025;15/07/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Helena Teixeira;32;STCW A-II/2;NS Poseidon 787;graneleiro;0;m;6;120
+667;42450,15;07/05/2024;16/05/2024;Le Havre;França;FigueiraDaFoz;Portugal;Bárbara Oliveira;25;STCW A-II/2;SS Poseidon 430;cargueiro;0;m;9;135
+668;24893,76;12/07/2024;20/07/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Cláudia Sousa;47;Pilotage;MV Sagres 984;cargueiro;0;m;3;57
+669;2200,42;18/01/2025;22/01/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Vítor Jesus;54;STCW A-II/1;NS Gaivota 557;graneleiro;0;h;6;72
+670;6438,91;15/03/2024;18/03/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Sara Rodrigues;32;Yachtmaster;NS Neptuno 453;graneleiro;0;m;4;76
+671;1298,35;06/07/2024;19/07/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Ricardo Carvalho;56;CoC Class 1;SS Poseidon 190;ro-ro;5509;h;4294;77292
+672;4766,24;23/03/2024;29/03/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Diogo Santos;40;STCW A-II/2;MT Mondego 943;container;5685;h;3840;49920
+673;24434,73;09/01/2025;11/01/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Tiago Marques;40;STCW A-II/2;MT Caravela 990;cargueiro;0;h;5;100
+674;20740,79;17/11/2024;19/11/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Maria Ferreira;50;CoC Class 1;MT Atlântico 840;petroleiro;0;m;9;180
+675;40370,65;20/04/2024;22/04/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Daniela Ferreira;27;CoC Class 1;SS Lusitania 712;graneleiro;0;m;7;70
+676;27900,04;23/09/2025;30/09/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Helena Marques;25;Yachtmaster;SS Poseidon 112;cargueiro;0;m;6;66
+677;11516,78;12/03/2025;25/03/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Filipe Teixeira;45;Pilotage;NS Mondego 266;petroleiro;0;h;9;126
+678;43479,74;08/11/2024;25/11/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Beatriz Teixeira;47;Yachtmaster;NS Gaivota 828;graneleiro;0;m;7;112
+679;4517,01;14/03/2024;24/03/2024;Le Havre;França;FigueiraDaFoz;Portugal;Hugo Rodrigues;60;STCW A-II/1;MV Íris 641;container;2089;h;1424;28480
+680;12498,02;08/06/2024;26/06/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Vítor Marques;38;CoC Class 2;MT Guadiana 574;container;7055;h;5678;113560
+681;26488,32;22/02/2024;08/03/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Carlos Sousa;46;CoC Class 1;MT Minho 519;container;13841;h;11711;175665
+682;20670,84;23/07/2024;31/07/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Ana Pereira;42;Pilotage;MT Atlântico 742;petroleiro;0;m;5;85
+683;36364,36;16/10/2024;03/11/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;André Rodrigues;58;CoC Class 1;NS Gaivota 817;petroleiro;0;h;6;90
+684;10262,94;14/07/2025;29/07/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Filipe Oliveira;55;Pilotage;MT Íris 803;graneleiro;0;h;4;64
+685;30080,8;02/06/2024;20/06/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Gonçalo Sousa;56;Yachtmaster;MV Argonauta 592;petroleiro;0;h;6;84
+686;13094,37;27/07/2024;14/08/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Sofia Oliveira;32;CoC Class 1;MT Atlântico 642;container;2937;m;2318;46360
+687;7366,57;05/06/2024;16/06/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Artur Teixeira;25;CoC Class 2;MV Minho 723;cargueiro;0;h;8;80
+688;39657,69;16/05/2024;18/05/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Luís Marques;28;STCW A-II/1;SS Guadiana 463;graneleiro;0;h;5;100
+689;48239,84;20/05/2024;08/06/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Gonçalo Sousa;30;STCW A-II/2;MT Poseidon 797;container;16427;h;7623;152460
+690;25196,89;24/02/2025;13/03/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Manuel Ribeiro;47;STCW A-II/1;SS Argonauta 349;graneleiro;0;h;9;99
+691;35939,26;23/09/2025;03/10/2025;Génova;Itália;FigueiraDaFoz;Portugal;Raquel Oliveira;47;STCW A-II/1;SS Argonauta 742;ro-ro;3896;m;3648;36480
+692;47587,86;13/01/2024;18/01/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Rita Ribeiro;57;STCW A-II/1;MT Poseidon 704;container;1022;m;547;7658
+693;39309,37;06/03/2025;15/03/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Bruno Lopes;45;STCW A-II/1;MT Nereida 592;container;16711;h;9380;187600
+694;18642,47;13/10/2025;18/10/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Bruno Rodrigues;41;STCW A-II/2;MT Mondego 792;petroleiro;0;h;4;40
+695;43425,19;30/10/2024;06/11/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Luís Oliveira;52;STCW A-II/2;MV Nereida 982;petroleiro;0;h;4;72
+696;19120,85;20/12/2024;04/01/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Carlos Carvalho;42;CoC Class 1;MT Tejo 145;ro-ro;326;h;141;1833
+697;28051,4;30/03/2025;08/04/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;André Ferreira;37;CoC Class 1;MT Íris 52;ro-ro;2357;h;1059;18003
+698;19186,92;09/04/2024;11/04/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Filipe Santos;40;STCW A-II/1;MV Atlântida 437;graneleiro;0;h;8;112
+699;11571,29;14/06/2024;25/06/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Vítor Pinto;46;Pilotage;MT Minho 341;graneleiro;0;h;6;60
+700;46609,56;12/09/2025;25/09/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Manuel Pinto;58;STCW A-II/2;NS Lusitania 467;container;18635;h;14664;205296
+701;48755;30/09/2024;03/10/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Gabriela Martins;52;STCW A-II/2;MT Guadiana 402;cargueiro;0;m;4;64
+702;5181,73;28/05/2024;05/06/2024;Le Havre;França;FigueiraDaFoz;Portugal;Raquel Lopes;25;CoC Class 2;MV Gaivota 116;container;9047;m;8339;108407
+703;3846,51;22/08/2024;25/08/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Cláudia Costa;37;CoC Class 1;SS Lusitania 416;petroleiro;0;m;3;36
+704;12852,56;27/04/2024;07/05/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Daniela Ferreira;34;CoC Class 1;NS Atlântico 605;ro-ro;4753;m;1988;39760
+705;35759,77;11/04/2024;13/04/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Vítor Martins;46;Yachtmaster;NS Atlântico 68;cargueiro;0;h;5;65
+706;20810,2;01/02/2025;11/02/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Artur Marques;59;CoC Class 2;MT Açor 178;ro-ro;486;h;185;1850
+707;36517,97;17/01/2024;29/01/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Inês Pinto;48;Yachtmaster;MT Lusitania 842;graneleiro;0;m;9;144
+708;38353,14;12/02/2025;16/02/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Hugo Alves;50;STCW A-II/1;MV Atlântico 336;ro-ro;2377;h;1523;27414
+709;7444,4;28/04/2024;14/05/2024;Génova;Itália;FigueiraDaFoz;Portugal;Rui Rodrigues;41;STCW A-II/2;MV Sagres 677;ro-ro;2251;h;1592;15920
+710;6890,15;16/05/2025;26/05/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Daniela Sousa;54;CoC Class 2;NS Argonauta 211;ro-ro;2892;m;1312;17056
+711;17272,87;13/05/2024;20/05/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Bárbara Sousa;56;CoC Class 2;MV Nereida 627;petroleiro;0;m;9;135
+712;1066,33;02/02/2024;09/02/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Beatriz Sousa;36;STCW A-II/1;MV Nereida 721;petroleiro;0;m;9;153
+713;48735,53;08/07/2025;12/07/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Inês Sousa;37;STCW A-II/1;NS Atlântico 641;cargueiro;0;m;6;120
+714;45029,47;14/09/2025;03/10/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Rita Alves;33;CoC Class 2;SS Caravela 487;ro-ro;2307;m;848;16960
+715;8464,06;12/08/2024;20/08/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Henrique Alves;46;CoC Class 1;SS Minho 894;graneleiro;0;h;9;117
+716;46931,54;07/09/2025;10/09/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;João Ferreira;53;Pilotage;SS Gaivota 674;container;9180;h;6221;74652
+717;3926,11;13/08/2024;26/08/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Rui Oliveira;39;Pilotage;NS Neptuno 639;graneleiro;0;h;4;76
+718;49520,24;05/08/2024;09/08/2024;Le Havre;França;FigueiraDaFoz;Portugal;Helena Marques;50;Yachtmaster;NS Guadiana 232;graneleiro;0;m;5;55
+719;32896,91;22/09/2025;27/09/2025;Le Havre;França;FigueiraDaFoz;Portugal;Catarina Silva;56;Yachtmaster;SS Tejo 421;graneleiro;0;m;7;84
+720;4704,65;26/11/2024;11/12/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Maria Santos;56;Yachtmaster;MT Lusitania 595;graneleiro;0;m;3;33
+721;10595,82;20/08/2024;06/09/2024;Génova;Itália;FigueiraDaFoz;Portugal;Pedro Ribeiro;50;CoC Class 1;MV Atlântida 252;graneleiro;0;h;9;180
+722;40745,06;27/12/2024;06/01/2025;Génova;Itália;FigueiraDaFoz;Portugal;Henrique Pinto;43;CoC Class 1;MV Mondego 548;ro-ro;560;h;379;4548
+723;32498,13;25/12/2024;29/12/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Cláudia Ribeiro;55;CoC Class 2;MT Neptuno 362;ro-ro;3583;m;1465;16115
+724;36524,08;18/02/2024;04/03/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Carolina Santos;62;Pilotage;MT Tejo 63;ro-ro;315;m;161;1610
+725;35678,35;22/07/2025;06/08/2025;Génova;Itália;FigueiraDaFoz;Portugal;Artur Santos;55;Pilotage;MV Minho 497;petroleiro;0;h;5;50
+726;25368,31;29/08/2024;15/09/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Gonçalo Ferreira;29;CoC Class 1;SS Tejo 282;petroleiro;0;h;5;75
+727;15793,92;26/12/2024;06/01/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Tiago Teixeira;57;STCW A-II/2;SS Íris 379;ro-ro;3093;h;1923;34614
+728;40541,31;15/01/2024;29/01/2024;Le Havre;França;FigueiraDaFoz;Portugal;Sara Nunes;29;STCW A-II/2;MV Mondego 87;ro-ro;3745;m;3136;59584
+729;9835,09;28/07/2024;11/08/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Filipe Marques;34;CoC Class 2;NS Caravela 216;cargueiro;0;h;3;42
+730;22831,54;10/08/2024;13/08/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Maria Jesus;54;STCW A-II/1;SS Íris 409;container;6137;m;5309;95562
+731;7712,95;03/03/2025;16/03/2025;Génova;Itália;FigueiraDaFoz;Portugal;Gabriela Carvalho;57;STCW A-II/2;NS Gaivota 269;graneleiro;0;m;3;54
+732;20201,06;26/11/2024;09/12/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Ana Sousa;35;CoC Class 2;MT Poseidon 100;graneleiro;0;m;9;117
+733;32190,39;06/05/2025;12/05/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Teresa Teixeira;40;Pilotage;MT Tejo 274;petroleiro;0;m;9;90
+734;26604,45;08/09/2024;24/09/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Bárbara Alves;50;CoC Class 2;SS Mondego 694;cargueiro;0;m;3;36
+735;9628,68;27/11/2024;08/12/2024;Le Havre;França;FigueiraDaFoz;Portugal;Daniela Silva;61;Pilotage;MV Nereida 422;container;7686;m;5412;75768
+736;41640,19;02/06/2024;08/06/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Manuel Gonçalves;28;STCW A-II/2;MT Argonauta 35;petroleiro;0;h;6;108
+737;48046,64;24/07/2025;26/07/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Miguel Teixeira;41;Pilotage;MV Lusitania 89;cargueiro;0;h;3;39
+738;38108,2;01/09/2024;17/09/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Nuno Pinto;26;STCW A-II/2;SS Tejo 302;container;17813;h;15692;235380
+739;38881,36;20/05/2024;30/05/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Manuel Jesus;32;CoC Class 2;MT Caravela 800;petroleiro;0;h;3;51
+740;8972,29;09/05/2025;10/05/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Maria Alves;41;CoC Class 2;MV Tejo 979;petroleiro;0;m;7;140
+741;42905,14;22/08/2025;09/09/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Manuel Ferreira;46;CoC Class 2;NS Caravela 661;cargueiro;0;h;5;65
+742;1442,88;13/02/2024;22/02/2024;Génova;Itália;FigueiraDaFoz;Portugal;Pedro Carvalho;61;CoC Class 2;MV Íris 733;cargueiro;0;h;6;108
+743;40595,88;04/09/2025;14/09/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Miguel Ferreira;45;STCW A-II/1;MT Íris 20;ro-ro;5947;h;4606;73696
+744;13437,23;17/11/2024;25/11/2024;Génova;Itália;FigueiraDaFoz;Portugal;João Santos;51;Pilotage;MT Sagres 717;graneleiro;0;h;3;42
+745;1021,7;03/06/2024;06/06/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Bárbara Silva;37;Yachtmaster;NS Neptuno 414;graneleiro;0;m;4;60
+746;3200,65;21/09/2024;23/09/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;João Alves;25;Pilotage;MV Guadiana 342;graneleiro;0;h;6;66
+747;5445,36;27/08/2025;03/09/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Maria Ferreira;27;CoC Class 1;MT Atlântida 862;ro-ro;1079;m;688;13072
+748;22773,9;28/08/2025;31/08/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Marta Costa;59;Yachtmaster;NS Argonauta 307;container;4196;m;2212;30968
+749;28639,63;17/01/2024;04/02/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Diogo Nunes;53;STCW A-II/1;SS Sagres 37;graneleiro;0;h;9;126
+750;42516,31;31/03/2024;18/04/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Artur Martins;28;CoC Class 2;MV Minho 512;graneleiro;0;h;5;70
+751;11821,79;27/02/2024;11/03/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Ana Santos;44;CoC Class 1;MT Poseidon 416;container;13102;m;6815;115855
+752;8260,72;14/04/2024;19/04/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Gonçalo Lopes;25;Pilotage;SS Açor 948;ro-ro;5620;h;4824;62712
+753;29424,35;02/08/2025;07/08/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Pedro Nunes;35;Pilotage;NS Poseidon 249;container;3371;h;2401;40817
+754;8046,9;08/04/2024;20/04/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;André Santos;50;CoC Class 1;NS Caravela 856;container;11142;h;10518;168288
+755;20646,15;17/07/2024;01/08/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Tiago Pereira;31;CoC Class 2;SS Atlântida 824;ro-ro;4747;h;3490;45370
+756;44555,48;06/04/2025;10/04/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Raquel Alves;47;CoC Class 1;SS Mondego 857;container;9565;m;2940;32340
+757;15489,04;19/09/2025;02/10/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Artur Costa;53;CoC Class 1;MV Tejo 145;container;7196;h;2328;23280
+758;32166,08;21/04/2024;28/04/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Diogo Carvalho;52;STCW A-II/2;SS Poseidon 137;graneleiro;0;h;4;72
+759;25839,1;19/04/2025;23/04/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Carolina Silva;39;CoC Class 2;MV Nereida 184;container;12758;m;9232;101552
+760;34987,28;01/01/2025;09/01/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Teresa Nunes;60;Pilotage;SS Sagres 656;cargueiro;0;m;8;96
+761;26267,31;19/06/2025;29/06/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Teresa Martins;28;STCW A-II/2;MV Caravela 735;ro-ro;4006;m;1624;25984
+762;2840,98;08/03/2025;28/03/2025;Génova;Itália;FigueiraDaFoz;Portugal;Hugo Gonçalves;47;CoC Class 2;SS Argonauta 121;container;11616;h;5553;111060
+763;36433,29;10/09/2024;19/09/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Vítor Gonçalves;30;Yachtmaster;SS Íris 789;ro-ro;1480;h;924;15708
+764;1494,44;25/01/2025;01/02/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Maria Rodrigues;62;STCW A-II/1;NS Gaivota 181;cargueiro;0;m;7;70
+765;36737,89;30/07/2024;02/08/2024;Le Havre;França;FigueiraDaFoz;Portugal;Miguel Gonçalves;46;CoC Class 1;NS Tejo 343;cargueiro;0;h;3;48
+766;15843,61;07/02/2024;26/02/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Maria Pereira;60;Pilotage;SS Caravela 805;container;18733;m;7109;78199
+767;14300,49;20/06/2025;06/07/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Helena Pereira;51;STCW A-II/1;NS Mondego 430;cargueiro;0;m;8;128
+768;49258,06;03/07/2024;19/07/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Sara Pereira;60;CoC Class 1;MV Açor 756;cargueiro;0;m;6;114
+769;4844,33;18/05/2025;26/05/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Nuno Martins;40;STCW A-II/1;NS Poseidon 912;graneleiro;0;h;8;112
+770;14173,49;20/07/2024;22/07/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Carlos Teixeira;33;CoC Class 2;NS Guadiana 140;cargueiro;0;h;9;99
+771;14000,98;24/04/2025;04/05/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Diogo Jesus;46;STCW A-II/2;SS Poseidon 709;petroleiro;0;h;5;90
+772;7367,13;13/07/2025;02/08/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Luís Oliveira;49;STCW A-II/1;NS Neptuno 176;graneleiro;0;h;4;76
+773;25935,64;11/04/2024;28/04/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Hugo Teixeira;25;STCW A-II/2;SS Açor 89;ro-ro;5410;h;3805;68490
+774;8792,23;21/03/2024;30/03/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Marta Pinto;48;CoC Class 2;MT Nereida 748;graneleiro;0;m;6;102
+775;6979,49;05/04/2024;12/04/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Ricardo Fernandes;30;CoC Class 2;SS Sagres 936;ro-ro;3172;h;1564;23460
+776;2512,04;12/01/2025;19/01/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Paulo Santos;41;STCW A-II/1;MV Neptuno 544;graneleiro;0;h;5;50
+777;11456,27;21/04/2025;30/04/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Inês Lopes;37;CoC Class 2;MV Nereida 710;cargueiro;0;m;7;98
+778;6824,85;05/12/2024;25/12/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Pedro Gonçalves;27;CoC Class 1;MV Nereida 492;cargueiro;0;h;6;72
+779;19645,37;14/07/2025;26/07/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Manuel Pinto;25;Pilotage;MV Íris 475;ro-ro;4020;h;2713;35269
+780;1787,03;09/04/2024;13/04/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Carolina Gonçalves;42;Pilotage;MV Atlântida 395;graneleiro;0;m;3;45
+781;40079,82;12/02/2024;03/03/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Hugo Marques;59;CoC Class 1;SS Atlântida 636;ro-ro;2635;h;2257;22570
+782;41039,28;26/09/2024;28/09/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Gonçalo Gonçalves;28;STCW A-II/1;NS Guadiana 477;container;19856;h;16978;271648
+783;36204,24;16/06/2024;05/07/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Diogo Gonçalves;25;STCW A-II/2;MV Argonauta 142;ro-ro;1576;h;1065;11715
+784;48114,15;24/01/2025;01/02/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Henrique Pereira;37;Pilotage;SS Açor 329;graneleiro;0;h;8;96
+785;44087,71;27/04/2025;16/05/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Helena Marques;36;CoC Class 1;MV Guadiana 354;container;5486;m;3231;48465
+786;16179,61;29/03/2024;18/04/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Helena Ribeiro;55;STCW A-II/1;MT Íris 636;graneleiro;0;m;9;117
+787;25574,26;30/05/2024;01/06/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Carlos Lopes;46;STCW A-II/1;NS Caravela 296;container;17766;h;10399;166384
+788;42683,33;02/06/2025;16/06/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;André Jesus;27;STCW A-II/1;NS Sagres 896;cargueiro;0;h;7;112
+789;34026,98;17/08/2025;05/09/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Hugo Marques;42;Pilotage;SS Gaivota 356;ro-ro;4695;h;3794;75880
+790;16032,05;03/05/2024;04/05/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Ana Sousa;36;STCW A-II/2;MV Açor 855;container;16424;m;7823;101699
+791;46814,73;09/10/2024;21/10/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Teresa Pinto;41;CoC Class 1;NS Íris 469;petroleiro;0;m;6;90
+792;4349,31;31/05/2025;14/06/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Hugo Costa;29;CoC Class 1;NS Guadiana 995;cargueiro;0;h;7;126
+793;34199,51;28/02/2024;29/02/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Pedro Gonçalves;43;CoC Class 1;SS Caravela 729;graneleiro;0;h;3;48
+794;49120,43;25/03/2025;09/04/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Carolina Costa;28;Pilotage;SS Açor 120;cargueiro;0;m;4;68
+795;6693,36;24/03/2024;31/03/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Bárbara Oliveira;39;CoC Class 2;MT Caravela 211;petroleiro;0;m;9;171
+796;5967,27;02/08/2024;21/08/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Bruno Gonçalves;53;STCW A-II/2;NS Caravela 547;petroleiro;0;h;5;80
+797;45821,82;29/01/2024;16/02/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;João Alves;34;CoC Class 2;NS Mondego 160;cargueiro;0;h;3;33
+798;48563,15;26/01/2025;05/02/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Mariana Nunes;41;CoC Class 1;SS Íris 347;ro-ro;2469;m;1755;35100
+799;29526,98;20/11/2024;29/11/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Maria Oliveira;29;Pilotage;MV Minho 26;ro-ro;3645;m;1398;19572
+800;11061,31;22/07/2024;29/07/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Manuel Gonçalves;27;STCW A-II/1;MV Argonauta 598;petroleiro;0;h;7;140
+801;15085,62;10/12/2024;13/12/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Luís Rodrigues;40;STCW A-II/1;NS Atlântida 525;container;6133;h;3053;30530
+802;30578,22;08/08/2025;14/08/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Filipe Fernandes;46;Yachtmaster;MV Guadiana 408;ro-ro;253;h;153;2601
+803;22088,36;21/10/2024;05/11/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Joana Alves;62;CoC Class 1;MT Guadiana 360;container;16846;m;9013;153221
+804;31558,79;27/05/2024;08/06/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Daniela Ferreira;43;STCW A-II/2;NS Íris 296;graneleiro;0;m;3;57
+805;35485,82;01/01/2025;03/01/2025;Le Havre;França;FigueiraDaFoz;Portugal;Teresa Oliveira;54;Yachtmaster;MV Sagres 213;ro-ro;2949;m;1208;24160
+806;23083,64;13/05/2024;28/05/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Helena Fernandes;51;STCW A-II/1;NS Atlântida 7;ro-ro;3949;m;2485;47215
+807;16332,46;17/12/2024;02/01/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Teresa Costa;30;Yachtmaster;SS Argonauta 191;graneleiro;0;m;5;60
+808;9530;09/04/2024;11/04/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Daniela Nunes;53;STCW A-II/1;MT Gaivota 573;petroleiro;0;m;3;42
+809;11441,17;17/08/2025;27/08/2025;Sines;Portugal;FigueiraDaFoz;Portugal;João Silva;39;STCW A-II/2;MT Gaivota 128;petroleiro;0;h;5;100
+810;19304,19;13/07/2025;17/07/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Carolina Nunes;58;Pilotage;MV Lusitania 784;cargueiro;0;m;9;90
+811;46877,09;10/10/2024;11/10/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Sofia Teixeira;28;Pilotage;NS Neptuno 890;petroleiro;0;m;9;117
+812;11803,7;16/05/2024;20/05/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Inês Gonçalves;43;Yachtmaster;MV Tejo 167;ro-ro;2020;m;705;11280
+813;33950,56;13/03/2024;26/03/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Pedro Fernandes;56;CoC Class 2;MT Caravela 55;cargueiro;0;h;8;96
+814;25403,98;24/06/2024;30/06/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Teresa Gonçalves;41;STCW A-II/1;MT Atlântida 527;petroleiro;0;m;8;152
+815;37670,83;23/02/2024;12/03/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Tiago Teixeira;59;STCW A-II/2;MT Mondego 847;ro-ro;1879;h;1246;12460
+816;22285,76;06/05/2024;21/05/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Joana Pereira;39;Yachtmaster;MT Sagres 14;ro-ro;4839;m;1470;16170
+817;31051,29;13/03/2024;01/04/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Joana Nunes;52;CoC Class 2;SS Lusitania 224;petroleiro;0;m;6;120
+818;5478,18;11/01/2025;20/01/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Carlos Carvalho;44;Yachtmaster;MV Neptuno 472;ro-ro;5712;h;3805;72295
+819;45664,54;03/01/2025;18/01/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Pedro Silva;56;CoC Class 2;MT Guadiana 143;petroleiro;0;h;5;70
+820;13130,43;28/07/2025;29/07/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Carolina Sousa;29;STCW A-II/1;SS Sagres 878;container;19230;m;13498;256462
+821;11551,87;22/10/2024;02/11/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Hugo Oliveira;27;STCW A-II/2;MV Neptuno 708;cargueiro;0;h;7;126
+822;19237,82;09/06/2024;20/06/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;João Nunes;40;CoC Class 2;SS Lusitania 34;container;13125;h;10277;133601
+823;25181,55;17/05/2025;27/05/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Filipe Pereira;42;CoC Class 1;MV Minho 684;container;4870;h;1662;18282
+824;26166,94;14/11/2024;27/11/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Tiago Teixeira;27;STCW A-II/2;SS Caravela 687;ro-ro;2093;h;953;18107
+825;4354,48;25/08/2025;08/09/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Rui Oliveira;32;Pilotage;MT Guadiana 165;petroleiro;0;h;9;180
+826;29638;04/05/2025;21/05/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Gonçalo Pinto;33;STCW A-II/1;MV Argonauta 733;container;11248;h;7466;119456
+827;44871,96;21/10/2024;07/11/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Carolina Carvalho;52;STCW A-II/1;SS Gaivota 376;container;19796;m;6626;125894
+828;21155,63;10/10/2025;28/10/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Manuel Pereira;45;STCW A-II/2;NS Neptuno 220;petroleiro;0;h;5;55
+829;25472,16;23/07/2025;03/08/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Paulo Pereira;62;CoC Class 1;NS Lusitania 533;container;18925;h;11419;182704
+830;21550,09;17/09/2025;28/09/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Joana Sousa;61;Yachtmaster;MV Mondego 506;container;14927;m;7595;98735
+831;15751,26;03/03/2024;14/03/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Mariana Lopes;37;Yachtmaster;NS Açor 568;petroleiro;0;m;4;60
+832;46428,42;12/09/2024;19/09/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Teresa Rodrigues;48;STCW A-II/1;MT Caravela 14;graneleiro;0;m;4;72
+833;1563,13;25/07/2024;26/07/2024;Génova;Itália;FigueiraDaFoz;Portugal;Nuno Lopes;27;Yachtmaster;MV Sagres 405;container;13761;h;7161;121737
+834;8815,12;30/04/2024;01/05/2024;Santos;Brasil;FigueiraDaFoz;Portugal;André Ferreira;62;CoC Class 1;MT Argonauta 610;cargueiro;0;h;4;76
+835;47184,03;06/10/2025;23/10/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Ricardo Marques;34;Pilotage;MT Tejo 775;graneleiro;0;h;9;180
+836;40892,16;29/08/2024;05/09/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Gabriela Teixeira;27;CoC Class 2;MT Sagres 787;graneleiro;0;m;9;108
+837;40486,38;18/08/2025;06/09/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Tiago Jesus;59;CoC Class 2;SS Sagres 31;graneleiro;0;h;9;135
+838;22722,02;08/05/2024;12/05/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Rui Nunes;36;Pilotage;SS Atlântico 620;container;12207;h;6936;104040
+839;41577,72;18/06/2025;08/07/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Hugo Teixeira;48;Yachtmaster;MV Gaivota 812;container;6796;h;2477;39632
+840;18366,82;27/06/2025;02/07/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Hugo Nunes;60;CoC Class 2;MT Mondego 829;ro-ro;4817;h;2757;27570
+841;43939,65;27/12/2024;03/01/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Miguel Marques;40;STCW A-II/1;NS Mondego 874;graneleiro;0;h;4;40
+842;28115,19;31/07/2024;09/08/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Cláudia Santos;30;STCW A-II/1;MT Caravela 504;cargueiro;0;m;4;72
+843;43082,02;30/06/2025;07/07/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Hugo Alves;46;CoC Class 2;NS Gaivota 488;container;2972;h;2055;28770
+844;43079,45;01/03/2025;18/03/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Gonçalo Santos;36;CoC Class 2;NS Atlântico 632;petroleiro;0;h;8;104
+845;34008,63;17/02/2025;26/02/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Raquel Santos;53;STCW A-II/1;MV Sagres 858;ro-ro;3410;m;2191;24101
+846;22050,82;14/10/2025;28/10/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Bárbara Silva;47;Pilotage;NS Lusitania 439;petroleiro;0;m;7;77
+847;36218,24;03/09/2024;11/09/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Teresa Gonçalves;45;STCW A-II/1;SS Açor 664;cargueiro;0;m;8;96
+848;15542,55;07/10/2025;19/10/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Rui Sousa;42;STCW A-II/1;SS Nereida 552;petroleiro;0;h;7;98
+849;12835,31;15/10/2024;01/11/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Manuel Marques;56;Yachtmaster;NS Tejo 21;ro-ro;598;h;555;5550
+850;6802,34;11/10/2025;26/10/2025;Génova;Itália;FigueiraDaFoz;Portugal;Bruno Alves;60;Yachtmaster;MT Lusitania 828;graneleiro;0;h;8;88
+851;12942,74;21/08/2024;01/09/2024;Génova;Itália;FigueiraDaFoz;Portugal;Carlos Fernandes;38;CoC Class 2;MT Caravela 630;ro-ro;2394;h;2050;24600
+852;48033,28;06/05/2024;25/05/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Teresa Rodrigues;39;CoC Class 2;SS Minho 272;container;3953;m;2343;32802
+853;22018,27;06/08/2025;17/08/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Bárbara Alves;33;STCW A-II/2;MV Lusitania 607;ro-ro;3460;m;2667;37338
+854;21181,37;19/01/2024;22/01/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Sofia Pinto;34;Yachtmaster;NS Argonauta 356;graneleiro;0;m;9;144
+855;27787,58;24/03/2025;11/04/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Helena Sousa;58;CoC Class 2;MT Argonauta 425;ro-ro;5718;m;1741;22633
+856;30676,26;02/04/2024;18/04/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Catarina Ribeiro;37;CoC Class 2;SS Nereida 643;ro-ro;2707;m;2265;38505
+857;34911,61;12/11/2024;19/11/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Artur Nunes;48;STCW A-II/2;MT Neptuno 958;graneleiro;0;h;6;102
+858;38475,25;11/03/2024;24/03/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Gonçalo Rodrigues;29;CoC Class 1;SS Açor 155;graneleiro;0;h;6;108
+859;1888,08;26/03/2025;02/04/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Teresa Fernandes;25;STCW A-II/1;NS Tejo 844;cargueiro;0;m;9;135
+860;33989,08;12/06/2025;23/06/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Luís Teixeira;49;STCW A-II/2;SS Lusitania 154;graneleiro;0;h;4;76
+861;31792,9;21/01/2025;05/02/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Ricardo Sousa;53;CoC Class 2;NS Neptuno 663;graneleiro;0;h;6;72
+862;36448,74;19/02/2025;07/03/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;André Jesus;49;STCW A-II/2;MT Tejo 675;container;4393;h;1642;22988
+863;43834,36;23/09/2025;24/09/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Miguel Nunes;53;STCW A-II/1;MV Mondego 617;container;1004;h;920;11960
+864;26017,53;28/02/2025;19/03/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Paulo Gonçalves;31;Pilotage;NS Sagres 242;container;1217;h;523;7845
+865;1655,02;04/03/2025;19/03/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Gonçalo Pinto;27;Yachtmaster;NS Atlântida 244;petroleiro;0;h;9;90
+866;45186,93;25/06/2025;03/07/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Bruno Fernandes;42;Yachtmaster;SS Neptuno 224;graneleiro;0;h;4;56
+867;3057,29;13/07/2025;15/07/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;André Rodrigues;56;CoC Class 1;NS Tejo 884;graneleiro;0;h;4;64
+868;49103,66;01/06/2025;13/06/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Filipe Carvalho;60;CoC Class 1;MT Neptuno 487;container;11564;h;8492;84920
+869;40386,91;22/03/2024;24/03/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Beatriz Gonçalves;37;CoC Class 2;MT Nereida 661;petroleiro;0;m;5;65
+870;3099,04;30/11/2024;20/12/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Miguel Martins;53;CoC Class 1;NS Minho 655;ro-ro;734;h;414;6624
+871;18175,51;18/11/2024;07/12/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Henrique Martins;27;CoC Class 2;MV Atlântico 950;graneleiro;0;h;5;70
+872;33179,74;09/02/2024;13/02/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Sofia Martins;35;CoC Class 1;SS Íris 647;cargueiro;0;m;9;171
+873;33422,53;10/09/2025;21/09/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Maria Jesus;26;STCW A-II/1;NS Neptuno 949;graneleiro;0;m;7;112
+874;31967,45;14/07/2025;23/07/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Inês Costa;52;Pilotage;MV Guadiana 431;petroleiro;0;m;7;112
+875;29469,74;26/04/2025;11/05/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Cláudia Silva;49;STCW A-II/1;NS Sagres 4;cargueiro;0;m;3;48
+876;38166,59;19/07/2024;24/07/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Hugo Fernandes;56;Yachtmaster;MV Caravela 256;container;12077;h;7559;128503
+877;31403,22;20/12/2024;25/12/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Vítor Marques;43;CoC Class 1;NS Sagres 267;graneleiro;0;h;9;135
+878;10553,78;24/06/2025;01/07/2025;Le Havre;França;FigueiraDaFoz;Portugal;Mariana Rodrigues;52;STCW A-II/1;MT Caravela 403;graneleiro;0;m;5;60
+879;45503,2;07/08/2024;13/08/2024;Santos;Brasil;FigueiraDaFoz;Portugal;João Silva;53;Yachtmaster;SS Atlântida 998;ro-ro;3613;h;1089;21780
+880;27540,67;29/07/2025;02/08/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Luís Costa;61;STCW A-II/1;NS Tejo 153;graneleiro;0;h;7;105
+881;36103,46;27/07/2025;06/08/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Carolina Pinto;36;STCW A-II/1;NS Íris 848;container;4016;m;2966;53388
+882;29836,74;23/02/2024;10/03/2024;Génova;Itália;FigueiraDaFoz;Portugal;Ricardo Rodrigues;32;STCW A-II/2;MT Gaivota 392;petroleiro;0;h;5;85
+883;21817,69;09/02/2024;22/02/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Marta Teixeira;26;STCW A-II/2;SS Neptuno 185;petroleiro;0;m;6;108
+884;10208,1;11/10/2025;23/10/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;João Sousa;35;CoC Class 1;NS Açor 379;cargueiro;0;h;9;108
+885;22749,1;15/08/2025;17/08/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Sofia Silva;36;CoC Class 2;MT Atlântico 704;cargueiro;0;m;7;126
+886;13939,04;13/11/2024;30/11/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Teresa Teixeira;62;CoC Class 1;MV Poseidon 54;container;11244;m;10572;190296
+887;23692,62;09/08/2024;10/08/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Filipe Gonçalves;54;Yachtmaster;MV Nereida 260;ro-ro;4351;h;2720;46240
+888;30169,86;13/09/2025;26/09/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Mariana Alves;51;Pilotage;SS Poseidon 595;petroleiro;0;m;4;64
+889;41260,75;08/08/2025;15/08/2025;Le Havre;França;FigueiraDaFoz;Portugal;Carolina Ribeiro;39;CoC Class 2;NS Sagres 92;petroleiro;0;m;8;104
+890;5330,86;24/04/2025;30/04/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Beatriz Jesus;48;STCW A-II/1;MV Sagres 512;petroleiro;0;m;6;102
+891;2526,31;05/12/2024;17/12/2024;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Teresa Sousa;57;CoC Class 1;MT Mondego 447;ro-ro;4587;m;1582;28476
+892;44534,74;28/07/2025;03/08/2025;Le Havre;França;FigueiraDaFoz;Portugal;Gabriela Oliveira;45;Yachtmaster;MV Argonauta 153;graneleiro;0;m;8;80
+893;22020,26;13/08/2025;18/08/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;André Santos;30;CoC Class 2;SS Íris 447;petroleiro;0;h;8;104
+894;49811,73;31/12/2024;08/01/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Maria Lopes;53;CoC Class 1;NS Íris 505;ro-ro;4650;m;1562;18744
+895;37652,23;17/08/2024;04/09/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Tiago Gonçalves;26;STCW A-II/1;MT Caravela 855;cargueiro;0;h;9;162
+896;45251,59;30/06/2024;06/07/2024;Le Havre;França;FigueiraDaFoz;Portugal;Bárbara Pinto;51;STCW A-II/2;MV Caravela 427;ro-ro;3447;m;2365;47300
+897;23825,46;31/03/2024;10/04/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Filipe Pereira;27;CoC Class 1;MT Lusitania 404;container;4960;h;3541;60197
+898;7373,95;16/12/2024;31/12/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Bruno Oliveira;40;STCW A-II/1;NS Gaivota 465;container;19712;h;15635;203255
+899;33062,76;03/04/2025;22/04/2025;Hamburgo;Alemanha;FigueiraDaFoz;Portugal;Bruno Santos;35;Pilotage;NS Mondego 971;ro-ro;4703;h;1736;20832
+900;38453,32;20/08/2025;26/08/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Carlos Santos;55;Pilotage;MT Poseidon 762;petroleiro;0;h;6;120
+901;16138,84;23/04/2024;10/05/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Sofia Alves;56;CoC Class 1;SS Atlântico 92;cargueiro;0;m;6;96
+902;46982,27;25/07/2024;05/08/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;André Alves;59;CoC Class 2;SS Lusitania 306;petroleiro;0;h;5;85
+903;29466,57;04/05/2024;14/05/2024;Génova;Itália;FigueiraDaFoz;Portugal;Mariana Teixeira;43;STCW A-II/2;MV Guadiana 525;petroleiro;0;m;5;60
+904;35662,45;26/07/2025;14/08/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Cláudia Alves;26;CoC Class 2;NS Atlântida 775;petroleiro;0;m;3;39
+905;43552,13;02/10/2024;18/10/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Catarina Costa;43;CoC Class 2;MV Poseidon 526;graneleiro;0;m;4;64
+906;26856,2;12/10/2025;26/10/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Sara Oliveira;58;CoC Class 2;MV Minho 480;ro-ro;2687;m;2542;27962
+907;49074,78;10/11/2024;15/11/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Filipe Sousa;45;STCW A-II/2;MT Açor 536;cargueiro;0;h;4;64
+908;25696,18;22/04/2024;02/05/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Bárbara Santos;44;Yachtmaster;MV Lusitania 523;container;14732;m;4790;67060
+909;34199,05;14/10/2024;25/10/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Inês Lopes;42;Pilotage;MT Guadiana 261;ro-ro;3326;m;2629;44693
+910;31950,53;15/04/2025;26/04/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Gonçalo Silva;45;STCW A-II/1;SS Caravela 864;graneleiro;0;h;9;135
+911;32783,31;08/12/2024;17/12/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Rui Marques;49;Pilotage;MT Íris 776;petroleiro;0;h;4;64
+912;32161,08;02/04/2025;21/04/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Raquel Costa;25;STCW A-II/2;MV Tejo 893;cargueiro;0;m;8;160
+913;11004,16;16/09/2024;17/09/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Daniela Silva;39;STCW A-II/1;MV Nereida 176;graneleiro;0;m;8;104
+914;42030,99;09/02/2025;27/02/2025;Génova;Itália;FigueiraDaFoz;Portugal;Rita Teixeira;41;Pilotage;MT Guadiana 708;graneleiro;0;m;5;80
+915;9400,27;09/03/2025;29/03/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Sofia Oliveira;57;STCW A-II/2;SS Lusitania 836;container;9066;m;6226;87164
+916;48085,09;25/07/2024;06/08/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;João Rodrigues;44;CoC Class 2;SS Neptuno 863;cargueiro;0;h;9;108
+917;29640,49;04/10/2025;17/10/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Rui Sousa;37;CoC Class 2;NS Neptuno 23;cargueiro;0;h;5;80
+918;5650,51;13/03/2025;24/03/2025;Valencia;Espanha;FigueiraDaFoz;Portugal;Pedro Lopes;32;CoC Class 2;MV Íris 600;graneleiro;0;h;7;140
+919;12308,94;29/05/2024;18/06/2024;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Hugo Pinto;32;CoC Class 2;MT Nereida 106;container;13083;h;12018;180270
+920;33293,23;01/10/2025;21/10/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Gabriela Pinto;40;Yachtmaster;MT Poseidon 500;ro-ro;1041;m;403;4030
+921;40203,6;02/06/2025;18/06/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Helena Pinto;51;Pilotage;NS Açor 732;ro-ro;5400;m;2418;24180
+922;2471,27;12/09/2024;21/09/2024;Huelva;Espanha;FigueiraDaFoz;Portugal;Paulo Pinto;59;CoC Class 1;MV Tejo 915;ro-ro;4374;h;3184;60496
+923;48695,75;21/08/2024;07/09/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Inês Nunes;55;Yachtmaster;NS Neptuno 22;petroleiro;0;m;9;90
+924;39019,67;20/09/2024;05/10/2024;Le Havre;França;FigueiraDaFoz;Portugal;Marta Nunes;55;CoC Class 1;SS Açor 602;graneleiro;0;m;5;50
+925;41031,72;31/12/2024;20/01/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Beatriz Sousa;36;Pilotage;NS Guadiana 816;graneleiro;0;m;5;85
+926;39681,06;04/03/2024;14/03/2024;Génova;Itália;FigueiraDaFoz;Portugal;Vítor Rodrigues;54;CoC Class 1;NS Sagres 178;container;2046;h;1515;16665
+927;24272,6;11/03/2024;23/03/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Vítor Nunes;58;STCW A-II/1;NS Minho 241;graneleiro;0;h;6;114
+928;5947,93;19/02/2024;25/02/2024;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;João Gonçalves;48;CoC Class 1;SS Caravela 848;petroleiro;0;h;4;40
+929;49279,89;17/07/2025;01/08/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Rui Fernandes;61;CoC Class 2;SS Lusitania 576;container;4470;h;2409;38544
+930;15669,79;06/08/2025;14/08/2025;Antuérpia;Bélgica;FigueiraDaFoz;Portugal;Patrícia Fernandes;47;CoC Class 1;MT Sagres 874;container;17075;m;6532;117576
+931;18331,14;21/07/2025;31/07/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Miguel Lopes;52;CoC Class 2;MV Lusitania 844;container;15908;h;12573;213741
+932;40642,16;13/01/2024;17/01/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Gonçalo Pereira;61;STCW A-II/2;SS Guadiana 161;container;12557;h;7467;126939
+933;49349,73;10/08/2024;28/08/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Helena Nunes;62;Pilotage;SS Guadiana 343;container;19314;m;7055;126990
+934;28607,01;10/01/2025;12/01/2025;Barcelona;Espanha;FigueiraDaFoz;Portugal;Carlos Lopes;55;CoC Class 2;SS Gaivota 350;container;12798;h;4898;83266
+935;39247,25;05/04/2024;10/04/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Rui Jesus;62;CoC Class 1;MT Açor 156;graneleiro;0;h;3;36
+936;31575,93;07/05/2024;21/05/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Sara Oliveira;48;CoC Class 2;NS Íris 975;graneleiro;0;m;5;55
+937;16016,71;21/04/2024;08/05/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Ana Lopes;25;STCW A-II/2;MV Atlântida 347;container;19666;m;7429;126293
+938;23463,14;14/03/2025;24/03/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Carolina Marques;58;STCW A-II/1;MV Sagres 925;graneleiro;0;m;3;57
+939;33693,4;29/03/2024;14/04/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Gonçalo Sousa;42;CoC Class 2;MT Mondego 932;graneleiro;0;h;9;90
+940;3203,11;02/02/2025;12/02/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Luís Ribeiro;39;Yachtmaster;NS Íris 660;cargueiro;0;h;8;152
+941;49483,11;17/05/2025;24/05/2025;Rotterdam;Países Baixos;FigueiraDaFoz;Portugal;Joana Alves;37;STCW A-II/2;MV Poseidon 551;petroleiro;0;m;5;55
+942;1775,34;27/01/2025;04/02/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Beatriz Ribeiro;44;Yachtmaster;SS Atlântida 524;petroleiro;0;m;5;95
+943;33146,7;22/03/2024;04/04/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Helena Fernandes;40;Pilotage;MV Nereida 912;cargueiro;0;m;6;114
+944;33246,05;03/03/2025;09/03/2025;Gdansk;Polónia;FigueiraDaFoz;Portugal;Sara Sousa;43;Pilotage;MV Poseidon 862;graneleiro;0;m;6;84
+945;17083,42;14/08/2024;30/08/2024;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Helena Gonçalves;42;STCW A-II/1;MV Íris 306;container;11651;m;4585;50435
+946;47620,8;05/07/2024;13/07/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Manuel Fernandes;37;STCW A-II/2;SS Guadiana 307;ro-ro;3024;h;2331;27972
+947;37075,75;16/08/2024;22/08/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Nuno Ribeiro;43;Pilotage;MV Mondego 529;cargueiro;0;h;5;65
+948;20736,02;06/07/2024;20/07/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Diogo Lopes;55;STCW A-II/1;NS Neptuno 84;cargueiro;0;h;8;136
+949;37338,53;04/07/2025;12/07/2025;Cádiz;Espanha;FigueiraDaFoz;Portugal;Paulo Oliveira;49;CoC Class 2;NS Atlântida 379;cargueiro;0;h;4;48
+950;42880,47;05/07/2024;11/07/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Bárbara Carvalho;62;Yachtmaster;MT Gaivota 652;graneleiro;0;m;7;140
+951;25047,49;22/02/2024;25/02/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Gabriela Marques;52;STCW A-II/2;SS Gaivota 729;cargueiro;0;m;3;51
+952;28379,53;09/02/2025;15/02/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Gonçalo Ribeiro;32;STCW A-II/1;NS Gaivota 34;cargueiro;0;h;5;50
+953;47005,85;03/07/2024;09/07/2024;Le Havre;França;FigueiraDaFoz;Portugal;Inês Teixeira;38;CoC Class 2;MV Guadiana 586;container;12374;m;7316;124372
+954;29087,94;16/03/2024;02/04/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Gonçalo Oliveira;55;STCW A-II/1;MT Guadiana 311;petroleiro;0;h;6;102
+955;26483,63;03/11/2024;12/11/2024;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Ana Oliveira;55;STCW A-II/2;NS Poseidon 960;ro-ro;4961;m;4176;75168
+956;37832,13;18/08/2025;25/08/2025;Tânger-Med;Marrocos;FigueiraDaFoz;Portugal;Marta Costa;46;Pilotage;MV Lusitania 561;graneleiro;0;m;6;72
+957;37763,02;10/07/2025;20/07/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Miguel Marques;44;CoC Class 2;MT Íris 922;ro-ro;2647;h;1762;31716
+958;10775,76;25/04/2025;26/04/2025;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Gabriela Teixeira;39;STCW A-II/2;NS Íris 684;cargueiro;0;m;4;52
+959;47288,62;27/02/2024;06/03/2024;Sines;Portugal;FigueiraDaFoz;Portugal;Bruno Ferreira;51;Yachtmaster;NS Atlântico 239;ro-ro;4304;h;3855;57825
+960;39504,82;23/11/2024;01/12/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Daniela Santos;50;Pilotage;MT Atlântida 887;graneleiro;0;m;7;140
+961;35421,93;16/08/2024;02/09/2024;Le Havre;França;FigueiraDaFoz;Portugal;Artur Sousa;52;Yachtmaster;MV Argonauta 979;container;6092;h;1916;28740
+962;35500,08;02/01/2024;20/01/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Artur Ribeiro;41;STCW A-II/2;MV Lusitania 675;graneleiro;0;h;8;152
+963;35697,97;13/01/2024;31/01/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;João Jesus;53;STCW A-II/2;NS Atlântida 827;cargueiro;0;h;6;102
+964;38381,77;03/12/2024;16/12/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Rita Pinto;45;STCW A-II/1;MV Mondego 448;graneleiro;0;m;5;85
+965;31141,33;15/09/2025;02/10/2025;Le Havre;França;FigueiraDaFoz;Portugal;Ana Ribeiro;43;CoC Class 1;MT Atlântida 118;graneleiro;0;m;7;119
+966;38904,08;19/07/2024;08/08/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Hugo Oliveira;34;STCW A-II/2;MV Sagres 315;petroleiro;0;h;8;104
+967;28006,84;18/07/2025;07/08/2025;Algeciras;Espanha;FigueiraDaFoz;Portugal;Miguel Teixeira;54;CoC Class 1;MV Poseidon 306;cargueiro;0;h;9;153
+968;40004,36;03/11/2024;12/11/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Bruno Oliveira;25;CoC Class 2;MT Atlântico 965;petroleiro;0;h;7;77
+969;3431,1;07/04/2024;23/04/2024;Valencia;Espanha;FigueiraDaFoz;Portugal;Carlos Martins;33;Yachtmaster;SS Gaivota 521;ro-ro;3971;h;2167;39006
+970;45833,33;25/04/2025;08/05/2025;Antalya;Turquia;FigueiraDaFoz;Portugal;Inês Jesus;38;STCW A-II/1;NS Neptuno 68;petroleiro;0;m;5;100
+971;30927,77;12/03/2024;24/03/2024;Génova;Itália;FigueiraDaFoz;Portugal;Paulo Martins;25;STCW A-II/1;MV Açor 782;petroleiro;0;h;8;112
+972;28854,78;11/02/2024;01/03/2024;Gdansk;Polónia;FigueiraDaFoz;Portugal;Hugo Pinto;35;CoC Class 2;MV Argonauta 802;graneleiro;0;h;8;80
+973;34192,26;29/09/2024;30/09/2024;Barcelona;Espanha;FigueiraDaFoz;Portugal;Daniela Costa;56;STCW A-II/2;NS Íris 43;ro-ro;2653;m;824;9064
+974;4242,09;27/02/2025;05/03/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Catarina Sousa;46;Pilotage;MV Poseidon 956;cargueiro;0;m;4;60
+975;38986,96;07/05/2025;26/05/2025;Génova;Itália;FigueiraDaFoz;Portugal;Catarina Jesus;32;Pilotage;MT Argonauta 600;graneleiro;0;m;9;180
+976;17278,07;14/08/2024;02/09/2024;Antalya;Turquia;FigueiraDaFoz;Portugal;Maria Costa;35;Pilotage;MV Minho 92;ro-ro;916;m;609;7917
+977;32217,64;25/03/2025;02/04/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Pedro Carvalho;43;CoC Class 1;SS Mondego 906;graneleiro;0;h;8;136
+978;10423,18;29/09/2024;05/10/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Cláudia Jesus;43;STCW A-II/2;MT Argonauta 471;petroleiro;0;m;8;104
+979;30381,75;28/01/2024;30/01/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Ana Oliveira;62;Pilotage;NS Nereida 924;container;11882;m;7990;95880
+980;14595,77;31/08/2024;04/09/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Paulo Carvalho;46;Pilotage;NS Atlântida 807;graneleiro;0;h;7;133
+981;1503,94;25/10/2024;29/10/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Manuel Pereira;37;CoC Class 1;MT Atlântico 182;graneleiro;0;h;9;90
+982;31511,79;14/10/2024;31/10/2024;Vigo;Espanha;FigueiraDaFoz;Portugal;Manuel Gonçalves;60;STCW A-II/2;MV Açor 761;graneleiro;0;h;7;119
+983;4868,03;08/05/2025;27/05/2025;Vigo;Espanha;FigueiraDaFoz;Portugal;Joana Rodrigues;59;STCW A-II/1;MT Açor 240;ro-ro;5969;m;4899;93081
+984;49257,44;28/07/2024;13/08/2024;Génova;Itália;FigueiraDaFoz;Portugal;Maria Jesus;57;CoC Class 2;SS Nereida 201;ro-ro;2594;m;1089;16335
+985;10726,06;16/04/2025;02/05/2025;Santos;Brasil;FigueiraDaFoz;Portugal;Luís Pinto;28;Yachtmaster;SS Argonauta 676;graneleiro;0;h;6;60
+986;30165,43;16/05/2024;31/05/2024;Cork;Irlanda;FigueiraDaFoz;Portugal;Rui Pinto;40;STCW A-II/2;SS Tejo 956;container;17067;h;15157;227355
+987;25574,38;16/04/2025;30/04/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Gonçalo Jesus;49;STCW A-II/2;MT Íris 3;container;8178;h;6085;121700
+988;37807,68;06/09/2024;16/09/2024;Algeciras;Espanha;FigueiraDaFoz;Portugal;Bruno Marques;33;CoC Class 2;MV Íris 508;petroleiro;0;h;9;108
+989;45313,63;25/12/2024;04/01/2025;Nova Iorque;Estados Unidos;FigueiraDaFoz;Portugal;Ricardo Santos;43;CoC Class 1;NS Mondego 6;graneleiro;0;h;4;68
+990;39426,1;05/01/2024;08/01/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Bruno Ferreira;51;Yachtmaster;SS Neptuno 981;container;11203;h;5833;69996
+991;36138,91;11/06/2024;23/06/2024;Cádiz;Espanha;FigueiraDaFoz;Portugal;Carlos Costa;50;CoC Class 1;MV Lusitania 29;petroleiro;0;h;5;95
+992;38115,76;16/12/2024;03/01/2025;Génova;Itália;FigueiraDaFoz;Portugal;Ana Pinto;44;Pilotage;MT Açor 111;petroleiro;0;m;3;48
+993;10339,88;11/05/2024;27/05/2024;Génova;Itália;FigueiraDaFoz;Portugal;Bruno Santos;25;CoC Class 1;SS Atlântida 795;ro-ro;1369;h;907;13605
+994;37011,37;12/01/2025;01/02/2025;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Inês Lopes;46;Yachtmaster;MV Poseidon 939;container;14280;m;7176;86112
+995;25148,16;25/04/2025;15/05/2025;Huelva;Espanha;FigueiraDaFoz;Portugal;Raquel Ferreira;62;STCW A-II/2;NS Poseidon 309;container;6384;m;2185;43700
+996;6712,57;06/09/2024;20/09/2024;Felixstowe;Reino Unido;FigueiraDaFoz;Portugal;Sofia Pereira;39;Pilotage;MV Minho 871;container;9675;m;7851;141318
+997;33274,41;10/03/2024;27/03/2024;Santos;Brasil;FigueiraDaFoz;Portugal;Inês Teixeira;47;CoC Class 2;MV Íris 394;cargueiro;0;m;8;120
+998;26634,01;13/06/2025;16/06/2025;Sines;Portugal;FigueiraDaFoz;Portugal;Catarina Teixeira;46;STCW A-II/1;MV Íris 530;petroleiro;0;m;6;66
+999;47190,3;10/07/2024;13/07/2024;Casablanca;Marrocos;FigueiraDaFoz;Portugal;Tiago Pereira;34;STCW A-II/1;MV Argonauta 927;ro-ro;4540;h;2153;43060
+1000;5838,12;17/05/2025;28/05/2025;Cork;Irlanda;FigueiraDaFoz;Portugal;Gonçalo Jesus;29;CoC Class 1;NS Íris 191;graneleiro;0;h;5;60
