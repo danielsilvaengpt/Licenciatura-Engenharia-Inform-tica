@@ -1,0 +1,13 @@
+MD TP_fase1
+
+casos de uso: 
+	Criação de Menus -> Utilizador
+	Gestão Alimentos -> Utilizador
+	Gestão Lembretes (Agendamentos) -> Utilizador
+	Gestão Receitas -> Utilizador + Empresas Afiliadas
+	Sugestão Supermercados -> Exemplo: API Supermercados
+	Listar Compras -> Utilizador
+	Categorização Alimentos (Adicionar) -> Exemplo: API código Barras
+	Avaliação/Classificação -> Utilizador
+	Perguntas -> Utilizador
+	Exportar Agenda -> Utilizador
