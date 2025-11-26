@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Continentes>
+   <continente nome="Portugal">
+      <numeroDePaises>1</numeroDePaises>
+      <Paises>
+         <Pais>China</Pais>
+      </Paises>
+   </continente>
+</Continentes>

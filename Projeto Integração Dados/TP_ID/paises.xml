@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Paises SYSTEM "paises.dtd">
+<Paises xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="paises.xsd">
+     <pais nome="China">
+          <capital>Roma</capital>
+          <continente>Portugal</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/250px-Flag_of_the_People%27s_Republic_of_China.svg.png</bandeira>
+          <chefeEstado>Xi Jinping</chefeEstado>
+          <linguasOficiais>
+               <lingua>Língua chinesa</lingua>
+          </linguasOficiais>
+          <area>10000</area>
+          <populacao>1395380000</populacao>
+          <densidade>139.6</densidade>
+          <religioes>
+               <religiao>Budismo</religiao>
+               <religiao>Cristianismo</religiao>
+               <religiao>Islão</religiao>
+               <religiao>Outros</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Chongqing</cidade>
+               <cidade>Xangai</cidade>
+               <cidade>Pequim (Capital)</cidade>
+               <cidade>Nanyang</cidade>
+               <cidade>Ganzhou</cidade>
+          </cidadesImportantes>
+          <paisesFronteira>
+               <paisFronteira>Mongólia</paisFronteira>
+               <paisFronteira>Rússia</paisFronteira>
+               <paisFronteira>Índia</paisFronteira>
+               <paisFronteira>Myanmar</paisFronteira>
+               <paisFronteira>Casaquistão</paisFronteira>
+               <paisFronteira>Coreia do Norte</paisFronteira>
+               <paisFronteira>Vietname</paisFronteira>
+               <paisFronteira>Nepal</paisFronteira>
+               <paisFronteira>Quirguistão</paisFronteira>
+               <paisFronteira>Paquistão</paisFronteira>
+               <paisFronteira>Butão</paisFronteira>
+               <paisFronteira>Laos</paisFronteira>
+               <paisFronteira>Tajiquistão</paisFronteira>
+               <paisFronteira>Afeganistão</paisFronteira>
+          </paisesFronteira>
+          <casosCovid>101754</casosCovid>
+     </pais>
+     <pais nome="Angola">
+          <capital>Luanda</capital>
+          <continente>África</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/250px-Flag_of_Angola.svg.png</bandeira>
+          <chefeEstado>João Manuel Gonçalves Lourenço</chefeEstado>
+          <linguasOficiais>
+               <lingua>Português</lingua>
+          </linguasOficiais>
+          <area>1246700</area>
+          <populacao>29250000</populacao>
+          <densidade>20.6</densidade>
+          <religioes>
+               <religiao>Outros</religiao>
+               <religiao>Cristianismo</religiao>
+               <religiao>Protestantismo</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Luanda (Capital)</cidade>
+          </cidadesImportantes>
+          <paisesFronteira>
+               <paisFronteira>República Democrática do Congo</paisFronteira>
+               <paisFronteira>Namíbia</paisFronteira>
+               <paisFronteira>Zâmbia</paisFronteira>
+               <paisFronteira>Congo</paisFronteira>
+          </paisesFronteira>
+          <casosCovid>22399</casosCovid>
+     </pais>
+     <pais nome="Canadá">
+          <capital>Ottawa</capital>
+          <continente>América</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/250px-Flag_of_Canada_%28Pantone%29.svg.png</bandeira>
+          <chefeEstado>Charles III</chefeEstado>
+          <linguasOficiais>
+               <lingua>Inglês</lingua>
+               <lingua>Francesa</lingua>
+          </linguasOficiais>
+          <area>9984670</area>
+          <populacao>1000</populacao>
+          <densidade>3.92</densidade>
+          <religioes>
+               <religiao>Cristianismo</religiao>
+               <religiao>Animismo</religiao>
+               <religiao>Islão</religiao>
+               <religiao>Outros</religiao>
+               <religiao>Hinduísmo</religiao>
+               <religiao>Budismo</religiao>
+               <religiao>Judaísmo</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Toronto</cidade>
+               <cidade>Montréal</cidade>
+               <cidade>Calgary</cidade>
+               <cidade>Ottawa (Capital)</cidade>
+               <cidade>Edmonton</cidade>
+          </cidadesImportantes>
+          <paisesFronteira>
+               <paisFronteira>Estados Unidos</paisFronteira>
+          </paisesFronteira>
+          <casosCovid>994549</casosCovid>
+     </pais>
+</Paises>
