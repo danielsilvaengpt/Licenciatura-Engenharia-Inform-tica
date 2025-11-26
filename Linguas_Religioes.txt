@@ -1,0 +1,4 @@
+China:
+- Línguas: Língua chinesa
+- Religiões: Budismo, Cristianismo, Islão, Outros
+
